@@ -1,7 +1,7 @@
 """Generación de diagramas Mermaid a partir de la respuesta.
 
-Solo tiene sentido cuando la consulta es procedimental -- "¿qué hago si...?",
-"¿cómo se tramita...?" -- donde un árbol de decisión comunica mejor que un
+Solo tiene sentido cuando la consulta es procedimental ("¿qué hago si...?",
+"¿cómo se tramita...?"), donde un árbol de decisión comunica mejor que un
 párrafo. Para una consulta de definición un diagrama es ruido, así que primero
 se decide si corresponde.
 

@@ -30,7 +30,7 @@ _MIN_TEXT_CHARS = 25
 
 
 def _is_container(unit: dict, unidades: list[dict], idx: int) -> bool:
-    """An ISO clause like "7 Apoyo" holds no prose of its own -- all its
+    """An ISO clause like "7 Apoyo" holds no prose of its own. All its
     content lives in 7.1, 7.2, ... A short body is correct there, so only
     flag it when no child clause follows."""
     if unit["tipo_unidad"] != "clausula" or idx + 1 >= len(unidades):

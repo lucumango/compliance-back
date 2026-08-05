@@ -82,7 +82,7 @@ _CAPITULO_RE = re.compile(r"^\s*CAP[ÍI]TULO\s+([IVXLCDM|l]+)\b[ \t]*(.*)$", re.
 _SECCION_RE = re.compile(r"^\s*SECCI[ÓO]N\s+([IVXLCDM|l]+)\b[ \t]*(.*)$", re.MULTILINE)
 
 # "Artículo 37." / "Artículo 38.-" / "Artículo 13-A." / OCR: "Articulo 1." / "Artículo 2*"
-# Note: no leading \s* here on purpose -- it must not swallow the preceding
+# Note: no leading \s* here on purpose. It must not swallow the preceding
 # newline, otherwise the line-start check in _find_markers can't tell a real
 # header from a cross-reference like "...visto en el artículo 24".
 _ARTICULO_RE = re.compile(
@@ -156,7 +156,7 @@ class Articulo:
 @dataclass
 class Marker:
     kind: str  # "titulo" | "capitulo" | "seccion" | "articulo"
-    start: int  # where the header itself begins -- the end of the previous body
+    start: int  # where the header begins, i.e. the end of the previous body
     body_start: int  # where the content after the header begins
     label: str  # e.g. "I", "PRELIMINAR", "37"
     heading: str  # name of the titulo/capitulo/seccion
@@ -262,7 +262,7 @@ _MAX_ARTICLE_JUMP = 10
 # In the scanned gazette text the ordinal marker of "Artículo 9º.-" is often
 # recognised as a digit, yielding "Artículo 92.-". Left alone that both loses
 # article 9 and invents a nonexistent article 92, so a trailing digit that
-# could be a mangled ordinal is a candidate for stripping -- but only when
+# could be a mangled ordinal is a candidate for stripping, but only when
 # doing so is what makes the sequence line up.
 _ORDINAL_OCR_DIGITS = ("2", "9", "0")
 

@@ -2,7 +2,7 @@
 
 La regla central del producto es que ninguna afirmación normativa puede salir
 sin estar anclada a un artículo recuperado. Cuando el corpus no cubre la
-consulta, la respuesta correcta es decirlo -- no completar con conocimiento
+consulta, la respuesta correcta es decirlo, no completar con conocimiento
 general del modelo, que es exactamente donde un asistente de compliance se
 vuelve peligroso.
 """

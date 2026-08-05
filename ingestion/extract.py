@@ -20,7 +20,7 @@ OCR_DPI = 300
 MIN_NATIVE_TEXT_CHARS = 20  # below this, treat the page as scanned
 
 # Article headers in the El Peruano scans are underlined. Those rules merge
-# with the glyphs' descenders and wreck recognition -- "Artículo 3º.-" comes
+# with the glyphs' descenders and wreck recognition, so "Artículo 3º.-" comes
 # out as "lo 39.-", which loses the article boundary entirely. Detecting long
 # horizontal runs and inpainting them away restores the headers. 300 DPI
 # recovers more headers than 400 here; higher resolution makes the underline

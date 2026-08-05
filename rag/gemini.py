@@ -2,7 +2,7 @@
 
 Sin SDK a propósito: la superficie que usamos son dos endpoints, y evitar la
 dependencia mantiene el proyecto instalable con solo la librería estándar más
-numpy. El manejo de 429 sí es necesario -- el plan gratuito los devuelve al
+numpy. El manejo de 429 sí es necesario, porque el plan gratuito los devuelve al
 indexar el corpus completo.
 """
 
@@ -32,7 +32,7 @@ BATCH_MAX = 100
 # Con los reintentos del indexado (6 intentos x 180 s) un modelo saturado deja
 # la petición colgada 19 minutos, que es peor que fallar pronto. El timeout se
 # aplica por operación de socket, no al total, así que 60 s significa "60 s sin
-# recibir nada" -- de sobra cuando los fragmentos llegan cada pocos cientos de
+# recibir nada", de sobra cuando los fragmentos llegan cada pocos cientos de
 # milisegundos.
 _STREAM_MAX_REINTENTOS = 3
 _STREAM_TIMEOUT = 60
