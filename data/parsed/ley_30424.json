@@ -1,0 +1,623 @@
+{
+  "norma_id": "ley_30424",
+  "tipo": "ley",
+  "numero": "30424",
+  "nombre": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional",
+  "materia": "anticorrupcion",
+  "entidad_reguladora": [
+    "MINJUSDH",
+    "Ministerio Público"
+  ],
+  "fecha_publicacion": "2016-04-21",
+  "url_fuente": null,
+  "metadata_verificada": false,
+  "notas": "Texto ORIGINAL publicado el 21/04/2016, sin las modificatorias posteriores (p. ej. Ley 30835, Ley 31740). No usar como texto vigente sin actualizar.",
+  "extraccion": {
+    "archivo": "ley_30424.pdf",
+    "paginas": 4,
+    "paginas_ocr": 4,
+    "requiere_cotejo": true
+  },
+  "unidades": [
+    {
+      "id": "ley_30424::ley::art_1",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "1",
+      "titulo": "Objeto de la Ley",
+      "texto": "Objeto de la Ley\n\nLa presente Ley regula la responsabilidad administrativa\nde las personas jurídicas por el delito de cohecho activo\ntransnacional previsto en el artículo 397-A del Código Penal.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 1",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Artículo 1\n\nObjeto de la Ley\n\nLa presente Ley regula la responsabilidad administrativa\nde las personas jurídicas por el delito de cohecho activo\ntransnacional previsto en el artículo 397-A del Código Penal."
+    },
+    {
+      "id": "ley_30424::ley::art_2",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "2",
+      "titulo": "Ambito subjetivo de aplicación",
+      "texto": "Ambito subjetivo de aplicación\n\nPara efectos de la presente Ley, son personas\njurídicas las entidades de derecho privado, así como\nlas asociaciones, fundaciones y comités no inscritos,\nlas sociedades irregulares, los entes que administran un\npatrimonio autónomo y las empresas del Estado peruano\no sociedades de economía mixta.\n\nEl cambio de nombre, denominación o razón social,\nreorganización social, transformación, escisión, fusión,\ndisolución, liquidación o cualquier acto que pueda afectar\nla personalidad jurídica de la entidad no impiden la\natribución de responsabilidad a la misma.\n\n_ SECCIÓN Il\nATRIBUCIÓN DE RESPONSABILIDAD\nADMINISTRATIVA A LAS PERSONAS JURÍDICAS",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 2",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Artículo 2\n\nAmbito subjetivo de aplicación\n\nPara efectos de la presente Ley, son personas\njurídicas las entidades de derecho privado, así como\nlas asociaciones, fundaciones y comités no inscritos,\nlas sociedades irregulares, los entes que administran un\npatrimonio autónomo y las empresas del Estado peruano\no sociedades de economía mixta.\n\nEl cambio de nombre, denominación o razón social,\nreorganización social, transformación, escisión, fusión,\ndisolución, liquidación o cualquier acto que pueda afectar\nla personalidad jurídica de la entidad no impiden la\natribución de responsabilidad a la misma.\n\n_ SECCIÓN Il\nATRIBUCIÓN DE RESPONSABILIDAD\nADMINISTRATIVA A LAS PERSONAS JURÍDICAS"
+    },
+    {
+      "id": "ley_30424::ley::art_3",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "3",
+      "titulo": "Responsabilidad administrativa de las",
+      "texto": "Responsabilidad administrativa de las\npersonas jurídicas\n\nLas personas jurídicas a que se hace referencia en\nel artículo 2 son responsables administrativamente por\nel delito de cohecho activo transnacional, previsto en el\nartículo 397-A del Código Penal, cuando este haya sido\ncometido en su nombre o por cuenta de ellas y en su\nbeneficio, directo o indirecto, por:\n\na. Sus administradores de hecho o derecho,\nrepresentantes legales, contractuales y órganos\ncolegiados, siempre que actúen en el ejercicio de\nlas funciones propias de su cargo.\n\nb. Las personas naturales que prestan cualquier\ntipo de servicio a la persona jurídica, con\nindependencia de su naturaleza, del régimen\njurídico en que se encuentren o de si media\nrelación contractual y que, estando sometidas a\nla autoridad y control de los gestores y órganos\nmencionados en el literal anterior, actúan por\norden o autorización de estos últimos.\n\nc. Las personas naturales señaladas en el\nliteral precedente cuando, en atención a la\nsituación concreta del caso, no se ejerza sobre\nellas el debido control y vigilancia por parte\nde los administradores de hecho o derecho,\nrepresentantes legales, contractuales u órganos\ncolegiados de la persona jurídica.\n\nLas personas jurídicas no son responsables en los\ncasos en que las personas naturales indicadas en los\nliterales a, b y c del primer párrafo, hubiesen cometido\nel delito de cohecho activo transnacional, previsto en\nel artículo 397-A del Código Penal, exclusivamente\nen beneficio propio o a favor de un tercero distinto a la\npersona jurídica.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 3",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Artículo 3\n\nResponsabilidad administrativa de las\npersonas jurídicas\n\nLas personas jurídicas a que se hace referencia en\nel artículo 2 son responsables administrativamente por\nel delito de cohecho activo transnacional, previsto en el\nartículo 397-A del Código Penal, cuando este haya sido\ncometido en su nombre o por cuenta de ellas y en su\nbeneficio, directo o indirecto, por:\n\na. Sus administradores de hecho o derecho,\nrepresentantes legales, contractuales y órganos\ncolegiados, siempre que actúen en el ejercicio de\nlas funciones propias de su cargo.\n\nb. Las personas naturales que prestan cualquier\ntipo de servicio a la persona jurídica, con\nindependencia de su naturaleza, del régimen\njurídico en que se encuentren o de si media\nrelación contractual y que, estando sometidas a\nla autoridad y control de los gestores y órganos\nmencionados en el literal anterior, actúan por\norden o autorización de estos últimos.\n\nc. Las personas naturales señaladas en el\nliteral precedente cuando, en atención a la\nsituación concreta del caso, no se ejerza sobre\nellas el debido control y vigilancia por parte\nde los administradores de hecho o derecho,\nrepresentantes legales, contractuales u órganos\ncolegiados de la persona jurídica.\n\nLas personas jurídicas no son responsables en los\ncasos en que las personas naturales indicadas en los\nliterales a, b y c del primer párrafo, hubiesen cometido\nel delito de cohecho activo transnacional, previsto en\nel artículo 397-A del Código Penal, exclusivamente\nen beneficio propio o a favor de un tercero distinto a la\npersona jurídica."
+    },
+    {
+      "id": "ley_30424::ley::art_4",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "4",
+      "titulo": "Autonomía de la responsabilidad",
+      "texto": "Autonomía de la responsabilidad\nadministrativa de la persona jurídica y extinción de la\nacción contra la persona jurídica\n\nLa responsabilidad administrativa de la persona\njurídica es autónoma de la responsabilidad penal de la\npersona natural. Las causas que extinguen la acción penal\ncontra la persona natural no enervan la responsabilidad\nadministrativa de las personas jurídicas.\n\nLa acción contra la persona jurídica se extingue por\nprescripción, cosa juzgada, amnistía o el derecho de gracia.\n\nLa prescripción de la acción contra la persona jurídica\nse rige por lo dispuesto, en lo que corresponda, en los\nartículos 80, 82, 83 y 84 del Código Penal.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 4",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Artículo 4\n\nAutonomía de la responsabilidad\nadministrativa de la persona jurídica y extinción de la\nacción contra la persona jurídica\n\nLa responsabilidad administrativa de la persona\njurídica es autónoma de la responsabilidad penal de la\npersona natural. Las causas que extinguen la acción penal\ncontra la persona natural no enervan la responsabilidad\nadministrativa de las personas jurídicas.\n\nLa acción contra la persona jurídica se extingue por\nprescripción, cosa juzgada, amnistía o el derecho de gracia.\n\nLa prescripción de la acción contra la persona jurídica\nse rige por lo dispuesto, en lo que corresponda, en los\nartículos 80, 82, 83 y 84 del Código Penal."
+    },
+    {
+      "id": "ley_30424::ley::art_5",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "5",
+      "titulo": "Medidas administrativas aplicables",
+      "texto": "Medidas administrativas aplicables\n\nEl juez aplica, según corresponda, las siguientes\nmedidas administrativas contra las personas jurídicas\nque resultaren administrativamente responsables de\nla comisión del delito de cohecho activo transnacional,\ntipificado en el artículo 397-A del Código Penal:\n\na. — Multa hasta el séxtuplo del beneficio obtenido o\nque se espera obtener con la comisión del delito,\nsin perjuicio de lo dispuesto en el literal a del\nprimer párrafo del artículo 7.\n\nb. Inhabilitación, en cualquiera de las siguientes\nmodalidades:\n\n1. Suspensión de las actividades sociales por\nun plazo no mayor de dos años.\n\n2. Prohibición de llevar a cabo en el futuro\nactividades de la misma clase o naturaleza\nde aquellas en cuya realización se haya\ncometido, favorecido o encubierto el delito.\nLa prohibición podrá tener carácter temporal\no definitivo. La prohibición temporal no será\nmayor de cinco años.\n\n3. Suspensión para contratar con el Estado por\nun plazo no mayor de cinco años.\n\nc. Cancelación de licencias, concesiones,\nderechos y otras autorizaciones administrativas\no municipales.\n\nd. Clausura de sus locales o establecimientos,\ncon carácter temporal o definitivo. La clausura\ntemporal es no mayor de cinco años.\n\ne. — Disolución.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "II",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 5",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección II · Artículo 5\n\nMedidas administrativas aplicables\n\nEl juez aplica, según corresponda, las siguientes\nmedidas administrativas contra las personas jurídicas\nque resultaren administrativamente responsables de\nla comisión del delito de cohecho activo transnacional,\ntipificado en el artículo 397-A del Código Penal:\n\na. — Multa hasta el séxtuplo del beneficio obtenido o\nque se espera obtener con la comisión del delito,\nsin perjuicio de lo dispuesto en el literal a del\nprimer párrafo del artículo 7.\n\nb. Inhabilitación, en cualquiera de las siguientes\nmodalidades:\n\n1. Suspensión de las actividades sociales por\nun plazo no mayor de dos años.\n\n2. Prohibición de llevar a cabo en el futuro\nactividades de la misma clase o naturaleza\nde aquellas en cuya realización se haya\ncometido, favorecido o encubierto el delito.\nLa prohibición podrá tener carácter temporal\no definitivo. La prohibición temporal no será\nmayor de cinco años.\n\n3. Suspensión para contratar con el Estado por\nun plazo no mayor de cinco años.\n\nc. Cancelación de licencias, concesiones,\nderechos y otras autorizaciones administrativas\no municipales.\n\nd. Clausura de sus locales o establecimientos,\ncon carácter temporal o definitivo. La clausura\ntemporal es no mayor de cinco años.\n\ne. — Disolución."
+    },
+    {
+      "id": "ley_30424::ley::art_6",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "6",
+      "titulo": "complementarias",
+      "texto": "complementarias\n\nEl juez puede ordenar a la autoridad competente que\ndisponga la intervención de la persona juridica que resultare\nadministrativamente responsable de la comisión del delito\nde cohecho activo transnacional, cuando sea necesario,\npara salvaguardar los derechos de los trabajadores y de los\nacreedores hasta por un período de dos años.\n\nLa intervención puede afectar a la totalidad de la\norganización o limitarse a alguna de sus instalaciones,\nsecciones o unidades de negocio. El juez debe fijar\nexactamente el contenido y alcances de la intervención\ny determinar la entidad a cargo de la intervención y\nlos plazos en que esta debe cursarle informes a fin de\nefectuar el seguimiento de la medida.\n\nLa intervención se puede modificar o suspender en\ntodo momento previo informe del interventor y disposición\ndel Ministerio Público. El interventor está facultado para\nacceder a todas las instalaciones y locales de la entidad\ny recabar la información que estime necesaria para el\nejercicio de sus funciones, debiendo guardar estricta\nconfidencialidad respecto de la información secreta O\nreservada de la persona jurídica, bajo responsabilidad.\n\nMedidas administrativas",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "II",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 6",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección II · Artículo 6\n\ncomplementarias\n\nEl juez puede ordenar a la autoridad competente que\ndisponga la intervención de la persona juridica que resultare\nadministrativamente responsable de la comisión del delito\nde cohecho activo transnacional, cuando sea necesario,\npara salvaguardar los derechos de los trabajadores y de los\nacreedores hasta por un período de dos años.\n\nLa intervención puede afectar a la totalidad de la\norganización o limitarse a alguna de sus instalaciones,\nsecciones o unidades de negocio. El juez debe fijar\nexactamente el contenido y alcances de la intervención\ny determinar la entidad a cargo de la intervención y\nlos plazos en que esta debe cursarle informes a fin de\nefectuar el seguimiento de la medida.\n\nLa intervención se puede modificar o suspender en\ntodo momento previo informe del interventor y disposición\ndel Ministerio Público. El interventor está facultado para\nacceder a todas las instalaciones y locales de la entidad\ny recabar la información que estime necesaria para el\nejercicio de sus funciones, debiendo guardar estricta\nconfidencialidad respecto de la información secreta O\nreservada de la persona jurídica, bajo responsabilidad.\n\nMedidas administrativas"
+    },
+    {
+      "id": "ley_30424::ley::art_7",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "7",
+      "titulo": "Multa",
+      "texto": "Multa\n\nCuando no se pueda determinar el monto del beneficio\nobtenido o del que se esperaba obtener con la comisión\ndel delito de cohecho activo transnacional, el valor de la\nmulta se establece conforme a los siguientes criterios:\n\na. Cuando el ingreso anual de la persona jurídica\nal momento de la comisión del delito asciende\n\nhasta ciento cincuenta unidades impositivas\ntributarias, la multa es no menor de diez ni mayor\nde cincuenta unidades impositivas tributarias.\n\nb. Cuando el ingreso anual de la persona jurídica\nal momento de la comisión del delito asciende\nhasta mil setecientas unidades impositivas\ntributarias, la multa es no menor de cincuenta\nni mayor de doscientas cincuenta unidades\nimpositivas tributarias.\n\nCc. Cuando el ingreso anual de la persona jurídica\nal momento de la comisión del delito asciende a\nun monto mayor a las mil setecientas unidades\nimpositivas tributarias, la multa es no menor de\ndoscientas cincuenta ni mayor de quinientas\nunidades impositivas tributarias.\n\nLa multa debe ser pagada dentro de los diez días\nhábiles de pronunciada la sentencia que tenga la calidad de\nconsentida o ejecutoriada. A solicitud de la persona jurídica\ny cuando el pago del monto de la multa pueda poner en\nriesgo su continuidad o el mantenimiento de los puestos de\ntrabajo o cuando sea aconsejable por el interés general, el\njuez autoriza que el pago se efectúe en cuotas mensuales,\ndentro de un límite que no exceda de treinta y seis meses.\n\nEn caso de que la persona jurídica no cumpla con el\npago de la multa impuesta, esta puede ser ejecutada sobre\nsus bienes o convertida, previo requerimiento judicial, en la\nmedida de prohibición de actividades de manera definitiva,\nprevista en el numeral 2 del literal b del artículo 5.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "II",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 7",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección II · Artículo 7\n\nMulta\n\nCuando no se pueda determinar el monto del beneficio\nobtenido o del que se esperaba obtener con la comisión\ndel delito de cohecho activo transnacional, el valor de la\nmulta se establece conforme a los siguientes criterios:\n\na. Cuando el ingreso anual de la persona jurídica\nal momento de la comisión del delito asciende\n\nhasta ciento cincuenta unidades impositivas\ntributarias, la multa es no menor de diez ni mayor\nde cincuenta unidades impositivas tributarias.\n\nb. Cuando el ingreso anual de la persona jurídica\nal momento de la comisión del delito asciende\nhasta mil setecientas unidades impositivas\ntributarias, la multa es no menor de cincuenta\nni mayor de doscientas cincuenta unidades\nimpositivas tributarias.\n\nCc. Cuando el ingreso anual de la persona jurídica\nal momento de la comisión del delito asciende a\nun monto mayor a las mil setecientas unidades\nimpositivas tributarias, la multa es no menor de\ndoscientas cincuenta ni mayor de quinientas\nunidades impositivas tributarias.\n\nLa multa debe ser pagada dentro de los diez días\nhábiles de pronunciada la sentencia que tenga la calidad de\nconsentida o ejecutoriada. A solicitud de la persona jurídica\ny cuando el pago del monto de la multa pueda poner en\nriesgo su continuidad o el mantenimiento de los puestos de\ntrabajo o cuando sea aconsejable por el interés general, el\njuez autoriza que el pago se efectúe en cuotas mensuales,\ndentro de un límite que no exceda de treinta y seis meses.\n\nEn caso de que la persona jurídica no cumpla con el\npago de la multa impuesta, esta puede ser ejecutada sobre\nsus bienes o convertida, previo requerimiento judicial, en la\nmedida de prohibición de actividades de manera definitiva,\nprevista en el numeral 2 del literal b del artículo 5."
+    },
+    {
+      "id": "ley_30424::ley::art_8",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "8",
+      "titulo": "Inhabilitación",
+      "texto": "Inhabilitación\n\nLa medida de suspensión para contratar con el Estado,\nprevista en el numeral 3 del literal b del artículo 5, se\nimpone de forma obligatoria en los casos en que el delito\nes cometido en el marco de un proceso de contratación\npública.\n\nEl juez puede imponer cualquier modalidad de\ninhabilitación en supuestos distintos al señalado en el\nprimer párrafo, en atención a las particularidades del caso\nconcreto y considerando los criterios establecidos en el\nartículo 14.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "II",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 8",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección II · Artículo 8\n\nInhabilitación\n\nLa medida de suspensión para contratar con el Estado,\nprevista en el numeral 3 del literal b del artículo 5, se\nimpone de forma obligatoria en los casos en que el delito\nes cometido en el marco de un proceso de contratación\npública.\n\nEl juez puede imponer cualquier modalidad de\ninhabilitación en supuestos distintos al señalado en el\nprimer párrafo, en atención a las particularidades del caso\nconcreto y considerando los criterios establecidos en el\nartículo 14."
+    },
+    {
+      "id": "ley_30424::ley::art_9",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "9",
+      "titulo": "Cancelación de licencias u otras",
+      "texto": "Cancelación de licencias u otras\nautorizaciones y clausura\n\nLa medida prevista en el literal c del artículo 5 se aplica\nde forma obligatoria cuando el delito de cohecho activo\ntransnacional estuvo destinado o vinculado a la obtención\nde licencias u otras autorizaciones administrativas.\n\nSin perjuicio de lo dispuesto en el primer párrafo, el juez\npuede imponer las medidas previstas en los literales c y d del\nartículo 5, en otros supuestos cuando lo estime pertinente en\natención a los criterios establecidos en el artículo 14.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "II",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 9",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección II · Artículo 9\n\nCancelación de licencias u otras\nautorizaciones y clausura\n\nLa medida prevista en el literal c del artículo 5 se aplica\nde forma obligatoria cuando el delito de cohecho activo\ntransnacional estuvo destinado o vinculado a la obtención\nde licencias u otras autorizaciones administrativas.\n\nSin perjuicio de lo dispuesto en el primer párrafo, el juez\npuede imponer las medidas previstas en los literales c y d del\nartículo 5, en otros supuestos cuando lo estime pertinente en\natención a los criterios establecidos en el artículo 14."
+    },
+    {
+      "id": "ley_30424::ley::art_10",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "10",
+      "titulo": "Disolución",
+      "texto": "Disolución\n\nLa disolución se aplica solo a las personas jurídicas\nque hayan sido constituidas y operado para favorecer,\nfacilitar o encubrir la comisión del delito de cohecho activo\ntransnacional. En ningún caso podrá aplicarse para otras\ncircunstancias.\n\nEsta medida no es aplicable cuando se trate de\npersonas jurídicas de derecho privado y empresas del\nEstado o sociedades de economía mixta que presten\nun servicio de utilidad pública, cuya interrupción pueda\ncausar graves consecuencias sociales o económicas O\ndaños serios a la comunidad.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "II",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 10",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección II · Artículo 10\n\nDisolución\n\nLa disolución se aplica solo a las personas jurídicas\nque hayan sido constituidas y operado para favorecer,\nfacilitar o encubrir la comisión del delito de cohecho activo\ntransnacional. En ningún caso podrá aplicarse para otras\ncircunstancias.\n\nEsta medida no es aplicable cuando se trate de\npersonas jurídicas de derecho privado y empresas del\nEstado o sociedades de economía mixta que presten\nun servicio de utilidad pública, cuya interrupción pueda\ncausar graves consecuencias sociales o económicas O\ndaños serios a la comunidad."
+    },
+    {
+      "id": "ley_30424::ley::art_11",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "11",
+      "titulo": "Decomiso",
+      "texto": "Decomiso\n\nEl juez, cuando corresponda, dispone el decomiso de\nlos instrumentos, objetos, efectos y ganancias del delito de\ncohecho activo transnacional por el que se declare responsable\nadministrativamente a la persona jurídica, de conformidad\ncon el artículo 102 del Código Penal, conjuntamente con las\nmedidas administrativas del artículo 5 que resulten aplicables.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "II",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 11",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección II · Artículo 11\n\nDecomiso\n\nEl juez, cuando corresponda, dispone el decomiso de\nlos instrumentos, objetos, efectos y ganancias del delito de\ncohecho activo transnacional por el que se declare responsable\nadministrativamente a la persona jurídica, de conformidad\ncon el artículo 102 del Código Penal, conjuntamente con las\nmedidas administrativas del artículo 5 que resulten aplicables."
+    },
+    {
+      "id": "ley_30424::ley::art_12",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "12",
+      "titulo": "Circunstancias atenuantes",
+      "texto": "Circunstancias atenuantes\nSon circunstancias atenuantes de la responsabilidad\nadministrativa de las personas jurídicas las siguientes:\n\na. Haber procedido a través de sus administradores\nde hecho o derecho, representantes legales,\ncontractuales y órganos colegiados a confesar\nla comisión del delito de cohecho activo\ntransnacional, con anterioridad a la formalización\nde la investigación preparatoria.\n\nb. La colaboración objetiva, sustancial y decisiva\nen el esclarecimiento del hecho delictivo, en\ncualquier momento del proceso.\n\nCc. El impedimento de las consecuencias dañosas\n\ndel ilícito.\n\nLa reparación total o parcial del daño.\n\ne. La adopción e implementación por parte de la\npersona jurídica, después de la comisión del\ndelito de cohecho activo transnacional y antes del\ninicio del juicio oral, de un modelo de prevención,\nconforme a lo dispuesto en el artículo 15.\n\nT La acreditación parcial de los elementos del\nmodelo de prevención, previstos en el párrafo\n17.2 del artículo 17.\n\na",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "IV",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 12",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección IV · Artículo 12\n\nCircunstancias atenuantes\nSon circunstancias atenuantes de la responsabilidad\nadministrativa de las personas jurídicas las siguientes:\n\na. Haber procedido a través de sus administradores\nde hecho o derecho, representantes legales,\ncontractuales y órganos colegiados a confesar\nla comisión del delito de cohecho activo\ntransnacional, con anterioridad a la formalización\nde la investigación preparatoria.\n\nb. La colaboración objetiva, sustancial y decisiva\nen el esclarecimiento del hecho delictivo, en\ncualquier momento del proceso.\n\nCc. El impedimento de las consecuencias dañosas\n\ndel ilícito.\n\nLa reparación total o parcial del daño.\n\ne. La adopción e implementación por parte de la\npersona jurídica, después de la comisión del\ndelito de cohecho activo transnacional y antes del\ninicio del juicio oral, de un modelo de prevención,\nconforme a lo dispuesto en el artículo 15.\n\nT La acreditación parcial de los elementos del\nmodelo de prevención, previstos en el párrafo\n17.2 del artículo 17.\n\na"
+    },
+    {
+      "id": "ley_30424::ley::art_13",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "13",
+      "titulo": "Circunstancias agravantes",
+      "texto": "Circunstancias agravantes\nSon circunstancias agravantes de la responsabilidad\nadministrativa de las personas jurídicas:\n\na. La comisión del delito de cohecho activo\ntransnacional en virtud de cualquiera de los\nsupuestos del artículo 3, dentro de los cinco años\nposteriores a la imposición, mediante sentencia\nfirme, de una o más medidas del artículo 5 a\nla misma persona jurídica. En tal caso, el juez\npuede aumentar las medidas establecidas en los\nliterales a, b y d del artículo 5, hasta en una mitad\npor encima del máximo legal establecido.\n\nb. Lautilización instrumental de la persona jurídica\npara la comisión del delito de cohecho activo\ntransnacional. Se entiende que se está ante este\nsupuesto cuando la actividad legal sea menos\nrelevante que su actividad ilegal.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "IV",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 13",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección IV · Artículo 13\n\nCircunstancias agravantes\nSon circunstancias agravantes de la responsabilidad\nadministrativa de las personas jurídicas:\n\na. La comisión del delito de cohecho activo\ntransnacional en virtud de cualquiera de los\nsupuestos del artículo 3, dentro de los cinco años\nposteriores a la imposición, mediante sentencia\nfirme, de una o más medidas del artículo 5 a\nla misma persona jurídica. En tal caso, el juez\npuede aumentar las medidas establecidas en los\nliterales a, b y d del artículo 5, hasta en una mitad\npor encima del máximo legal establecido.\n\nb. Lautilización instrumental de la persona jurídica\npara la comisión del delito de cohecho activo\ntransnacional. Se entiende que se está ante este\nsupuesto cuando la actividad legal sea menos\nrelevante que su actividad ilegal."
+    },
+    {
+      "id": "ley_30424::ley::art_14",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "14",
+      "titulo": "Criterios para la aplicación de las",
+      "texto": "Criterios para la aplicación de las\nmedidas administrativas\n\nLas medidas administrativas previstas en los literales\nb, e y d del artículo 5 son determinadas por el juez en\natención a los siguientes criterios, según corresponda:\n\nLa gravedad del hecho punible.\n\nEl tamaño y naturaleza de la persona jurídica.\nLa capacidad económica de la persona jurídica.\nLa extensión del daño o peligro causado.\n\nEl beneficio económico obtenido por el delito de\ncohecho activo transnacional.\n\nLa modalidad y la motivación de la utilización de\nla persona jurídica en el delito.\n\ng. El puesto que en la estructura de la persona\njurídica ocupa la persona natural u órgano que\nincumplió el deber de control.\n\nDASon\n\n—",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "IV",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 14",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección IV · Artículo 14\n\nCriterios para la aplicación de las\nmedidas administrativas\n\nLas medidas administrativas previstas en los literales\nb, e y d del artículo 5 son determinadas por el juez en\natención a los siguientes criterios, según corresponda:\n\nLa gravedad del hecho punible.\n\nEl tamaño y naturaleza de la persona jurídica.\nLa capacidad económica de la persona jurídica.\nLa extensión del daño o peligro causado.\n\nEl beneficio económico obtenido por el delito de\ncohecho activo transnacional.\n\nLa modalidad y la motivación de la utilización de\nla persona jurídica en el delito.\n\ng. El puesto que en la estructura de la persona\njurídica ocupa la persona natural u órgano que\nincumplió el deber de control.\n\nDASon\n\n—"
+    },
+    {
+      "id": "ley_30424::ley::art_15",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "15",
+      "titulo": "Individualización de las medidas",
+      "texto": "Individualización de las medidas\nadministrativas\n\nEn caso de que el juez imponga la medida de multa o\nlas medidas administrativas previstas en los literales b y d\ndel artículo 5 con carácter temporal, debe desarrollar los\nsiguientes pasos:\n\na. Identifica la extensión de la medida que\ncorresponda, según los límites establecidos en el\nartículo 5, y la divide en tres partes.\n\nb. Determina la medida concreta, evaluando la\nconcurrencia de circunstancias agravantes O\natenuantes, conforme a las siguiente reglas:\n\n1. Cuando concurran únicamente circunstancias\natenuantes o no existan atenuantes ni\nagravantes, se aplica la medida dentro del\ntercio inferior.\n\n2. Cuando concurran circunstancias agravantes\ny atenuantes, se aplica la medida dentro del\ntercio intermedio.\n\n3. Cuandoconcurran únicamente circunstancias\nagravantes, se aplica la medida dentro del\ntercio superior.\n\n4. Cuando se trate de circunstancias atenuantes\nprevistas por la ley como privilegiadas, se\n\nCE\n\naplica la medida por debajo del tercio inferior.\n\n5. Cuando se trate de circunstancias agravantes\nprevistas por la ley como cualificadas,\nse aplica la medida por encima del tercio\nsuperior.\n\n6. En caso de concurrencia de circunstancias\natenuantes privilegiadas y agravantes\ncualificadas, se aplica la medida dentro de\nlos límites del rango legal.\n\nPara efectos del presente artículo, son circunstancias\natenuantes privilegiadas aquellas previstas en la ley\npenal o procesal penal que prevean la reducción de la\npena por debajo del mínimo legal Del mismo modo,\nson circunstancias agravantes cualificadas aquellas\nprevistas en la ley penal o procesal penal que prescriban\nel incremento de la pena por encima del máximo legal.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "IV",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 15",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección IV · Artículo 15\n\nIndividualización de las medidas\nadministrativas\n\nEn caso de que el juez imponga la medida de multa o\nlas medidas administrativas previstas en los literales b y d\ndel artículo 5 con carácter temporal, debe desarrollar los\nsiguientes pasos:\n\na. Identifica la extensión de la medida que\ncorresponda, según los límites establecidos en el\nartículo 5, y la divide en tres partes.\n\nb. Determina la medida concreta, evaluando la\nconcurrencia de circunstancias agravantes O\natenuantes, conforme a las siguiente reglas:\n\n1. Cuando concurran únicamente circunstancias\natenuantes o no existan atenuantes ni\nagravantes, se aplica la medida dentro del\ntercio inferior.\n\n2. Cuando concurran circunstancias agravantes\ny atenuantes, se aplica la medida dentro del\ntercio intermedio.\n\n3. Cuandoconcurran únicamente circunstancias\nagravantes, se aplica la medida dentro del\ntercio superior.\n\n4. Cuando se trate de circunstancias atenuantes\nprevistas por la ley como privilegiadas, se\n\nCE\n\naplica la medida por debajo del tercio inferior.\n\n5. Cuando se trate de circunstancias agravantes\nprevistas por la ley como cualificadas,\nse aplica la medida por encima del tercio\nsuperior.\n\n6. En caso de concurrencia de circunstancias\natenuantes privilegiadas y agravantes\ncualificadas, se aplica la medida dentro de\nlos límites del rango legal.\n\nPara efectos del presente artículo, son circunstancias\natenuantes privilegiadas aquellas previstas en la ley\npenal o procesal penal que prevean la reducción de la\npena por debajo del mínimo legal Del mismo modo,\nson circunstancias agravantes cualificadas aquellas\nprevistas en la ley penal o procesal penal que prescriban\nel incremento de la pena por encima del máximo legal."
+    },
+    {
+      "id": "ley_30424::ley::art_16",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "16",
+      "titulo": "Suspensión de la ejecución de las",
+      "texto": "Suspensión de la ejecución de las\nmedidas administrativas\n\n16.1.El juez puede, mediante resolución debidamente\nmotivada y de modo excepcional, considerando\nespecialmente el número de trabajadores o las\nventas anuales netas o los montos de exportación\nde la persona jurídica, suspender la ejecución\nde las medidas administrativas impuestas y sus\nefectos por un plazo no menor de seis meses\nni mayor de dos años. La suspensión procede\nsiempre que la persona jurídica no esté incursa\nen el supuesto de reincidencia previsto en el\nliteral a del artículo 13.\n\n16.2. En el caso de empresas del Estado, sociedades\nde economía mixta o de personas jurídicas que\nprestan un servicio de utilidad pública cuya\ninterrupción pueda causar graves consecuencias\nsociales y económicas o daños serios a la\ncomunidad, el juez puede ordenar la suspensión,\ncualquiera fuese la medida administrativa\nimpuesta en la sentencia.\n\n16.3.Si durante el periodo de suspensión no se dispone\nla incorporación formal de la persona jurídica al\nproceso penal de conformidad con lo previsto en\nlos artículos 90 y 91 del Código Procesal Penal,\naprobado por el Decreto Legislativo 957, el juez\ndeja sin efecto la medida administrativa impuesta\ny resuelve el sobreseimiento de la causa.\n\n16.4 Esta suspensión no afecta el decomiso dispuesto\njudicialmente, según lo previsto en el artículo 11.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "IV",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 16",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección IV · Artículo 16\n\nSuspensión de la ejecución de las\nmedidas administrativas\n\n16.1.El juez puede, mediante resolución debidamente\nmotivada y de modo excepcional, considerando\nespecialmente el número de trabajadores o las\nventas anuales netas o los montos de exportación\nde la persona jurídica, suspender la ejecución\nde las medidas administrativas impuestas y sus\nefectos por un plazo no menor de seis meses\nni mayor de dos años. La suspensión procede\nsiempre que la persona jurídica no esté incursa\nen el supuesto de reincidencia previsto en el\nliteral a del artículo 13.\n\n16.2. En el caso de empresas del Estado, sociedades\nde economía mixta o de personas jurídicas que\nprestan un servicio de utilidad pública cuya\ninterrupción pueda causar graves consecuencias\nsociales y económicas o daños serios a la\ncomunidad, el juez puede ordenar la suspensión,\ncualquiera fuese la medida administrativa\nimpuesta en la sentencia.\n\n16.3.Si durante el periodo de suspensión no se dispone\nla incorporación formal de la persona jurídica al\nproceso penal de conformidad con lo previsto en\nlos artículos 90 y 91 del Código Procesal Penal,\naprobado por el Decreto Legislativo 957, el juez\ndeja sin efecto la medida administrativa impuesta\ny resuelve el sobreseimiento de la causa.\n\n16.4 Esta suspensión no afecta el decomiso dispuesto\njudicialmente, según lo previsto en el artículo 11."
+    },
+    {
+      "id": "ley_30424::ley::art_17",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "17",
+      "titulo": "Eximente por implementación de",
+      "texto": "Eximente por implementación de\nmodelo de prevención\n\n17.1. La persona jurídica está exenta de responsabilidad\nadministrativa por la comisión del delito de\ncohecho activo transnacional, si adopta e\nimplementa en su organización, con anterioridad\na la comisión del delito, un modelo de prevención\nadecuado a su naturaleza, riesgos, necesidades\ny Características, consistente en medidas de\nvigilancia y control idóneas para prevenir el delito\nde cohecho activo transnacional o para reducir\nsignificativamente el riesgo de su comisión.\n\n17.2. El modelo de prevención a que se hace referencia\nen el párrafo 17.1 debe contener como mínimo\nlos siguientes elementos:\n\na. Una persona u órgano, designado por el\nmáximo órgano de administración de la\npersona jurídica, que ejerza la función\nde auditoría interna de prevención y\nque cuente con el personal, medios y\nfacultades necesarios para cumplirla\nadecuadamente. Esta función se ejerce con\nla debida autonomía respecto del órgano de\nadministración, sus propietarios, accionistas\no socios, salvo en el caso de la micro,\npequeña y mediana empresa, donde puede\nser asumida directamente por el órgano de\nadministración.\n\nb. Medidas preventivas referidas a:\n\n1. La identificación de las actividades o\nprocesos de la persona jurídica que\ngeneren O incrementen riesgos de\ncomisión del delito de cohecho activo\ntransnacional.\n\n2. El establecimiento de procesos\nespecíficos que permitan a las personas\nque intervengan en estos, programar\ny ejecutar sus tareas o labores de una\nmanera que prevenga la comisión del\ndelito de cohecho activo transnacional.\n\n3. La identificación de los procesos\nde administración y auditoría de los\nrecursos financieros que permitan a la\npersona jurídica prevenir su utilización\nen la comisión de la conducta delictiva\nde cohecho activo transnacional.\n\n4 La existencia de sistemas de\ndenuncia, protección del denunciante,\npersecución e imposición de sanciones\ninternas en contra de los trabajadores o\ndirectivos que incumplan el modelo de\nprevención.\n\nc. Un mecanismo de difusión y supervisión\ninterna del modelo de prevención, el cual\ndebe ser aprobado por un reglamento O\nsimilar emitido por la persona jurídica.\n\n17.3.El reglamento desarrolla y precisa los elementos\ny requisitos necesarios para la implementación\ndel modelo de prevención.\n\n17.4 En el caso de las empresas del Estado o\nsociedades de economía mixta, el modelo\nde prevención se ejerce sin perjuicio de las\ncompetencias y potestades que corresponden\na los órganos de control institucional como de\ntodos los órganos conformantes del Sistema\nNacional de Control.\n\n175.Se excluye también la responsabilidad\nadministrativa de la persona jurídica, cuando\ncualquiera de las personas naturales señaladas\nen el artículo 3 comete el delito eludiendo de\nmodo fraudulento el modelo de prevención\ndebidamente implementado atendiendo a los\nelementos previstos en el párrafo 17.2.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 17",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección V · Artículo 17\n\nEximente por implementación de\nmodelo de prevención\n\n17.1. La persona jurídica está exenta de responsabilidad\nadministrativa por la comisión del delito de\ncohecho activo transnacional, si adopta e\nimplementa en su organización, con anterioridad\na la comisión del delito, un modelo de prevención\nadecuado a su naturaleza, riesgos, necesidades\ny Características, consistente en medidas de\nvigilancia y control idóneas para prevenir el delito\nde cohecho activo transnacional o para reducir\nsignificativamente el riesgo de su comisión.\n\n17.2. El modelo de prevención a que se hace referencia\nen el párrafo 17.1 debe contener como mínimo\nlos siguientes elementos:\n\na. Una persona u órgano, designado por el\nmáximo órgano de administración de la\npersona jurídica, que ejerza la función\nde auditoría interna de prevención y\nque cuente con el personal, medios y\nfacultades necesarios para cumplirla\nadecuadamente. Esta función se ejerce con\nla debida autonomía respecto del órgano de\nadministración, sus propietarios, accionistas\no socios, salvo en el caso de la micro,\npequeña y mediana empresa, donde puede\nser asumida directamente por el órgano de\nadministración.\n\nb. Medidas preventivas referidas a:\n\n1. La identificación de las actividades o\nprocesos de la persona jurídica que\ngeneren O incrementen riesgos de\ncomisión del delito de cohecho activo\ntransnacional.\n\n2. El establecimiento de procesos\nespecíficos que permitan a las personas\nque intervengan en estos, programar\ny ejecutar sus tareas o labores de una\nmanera que prevenga la comisión del\ndelito de cohecho activo transnacional.\n\n3. La identificación de los procesos\nde administración y auditoría de los\nrecursos financieros que permitan a la\npersona jurídica prevenir su utilización\nen la comisión de la conducta delictiva\nde cohecho activo transnacional.\n\n4 La existencia de sistemas de\ndenuncia, protección del denunciante,\npersecución e imposición de sanciones\ninternas en contra de los trabajadores o\ndirectivos que incumplan el modelo de\nprevención.\n\nc. Un mecanismo de difusión y supervisión\ninterna del modelo de prevención, el cual\ndebe ser aprobado por un reglamento O\nsimilar emitido por la persona jurídica.\n\n17.3.El reglamento desarrolla y precisa los elementos\ny requisitos necesarios para la implementación\ndel modelo de prevención.\n\n17.4 En el caso de las empresas del Estado o\nsociedades de economía mixta, el modelo\nde prevención se ejerce sin perjuicio de las\ncompetencias y potestades que corresponden\na los órganos de control institucional como de\ntodos los órganos conformantes del Sistema\nNacional de Control.\n\n175.Se excluye también la responsabilidad\nadministrativa de la persona jurídica, cuando\ncualquiera de las personas naturales señaladas\nen el artículo 3 comete el delito eludiendo de\nmodo fraudulento el modelo de prevención\ndebidamente implementado atendiendo a los\nelementos previstos en el párrafo 17.2."
+    },
+    {
+      "id": "ley_30424::ley::art_18",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "18",
+      "titulo": "Efectos jurídicos y valoración",
+      "texto": "Efectos jurídicos y valoración\n\nEl fiscal o el juez, según corresponda, verifican la\nefectiva implementación y funcionamiento del modelo\nde prevención. Si en el curso de las diligencias\npreliminares se acredita la existencia de un modelo\nde prevención implementado con anterioridad a la\ncomisión del delito de cohecho activo transnacional,\nel fiscal dispone el archivo de lo actuado, mediante\ndecisión debidamente motivada. En caso de que la\ninvestigación preparatoria se hubiese formalizado,\nel juez puede, a petición del Ministerio Público,\ndictar auto de sobreseimiento de conformidad con la\nnormatividad procesal vigente.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 18",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección V · Artículo 18\n\nEfectos jurídicos y valoración\n\nEl fiscal o el juez, según corresponda, verifican la\nefectiva implementación y funcionamiento del modelo\nde prevención. Si en el curso de las diligencias\npreliminares se acredita la existencia de un modelo\nde prevención implementado con anterioridad a la\ncomisión del delito de cohecho activo transnacional,\nel fiscal dispone el archivo de lo actuado, mediante\ndecisión debidamente motivada. En caso de que la\ninvestigación preparatoria se hubiese formalizado,\nel juez puede, a petición del Ministerio Público,\ndictar auto de sobreseimiento de conformidad con la\nnormatividad procesal vigente."
+    },
+    {
+      "id": "ley_30424::ley::art_19",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "19",
+      "titulo": "Certificación del modelo de prevención",
+      "texto": "Certificación del modelo de prevención\n\nEl modelo de prevención puede ser certificado por\nterceros debidamente registrados y acreditados, con\nla finalidad de acreditar el cumplimiento de todos los\nelementos establecidos en el párrafo 17.2 del artículo 17.\nEl reglamento establece la entidad pública a cargo de la\nacreditación de terceros, la norma técnica de certificación\ny demás requisitos para la implementación adecuada de\nlos modelos de prevención.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": null
+      },
+      "cita": "Ley 30424, Artículo 19",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Sección V · Artículo 19\n\nCertificación del modelo de prevención\n\nEl modelo de prevención puede ser certificado por\nterceros debidamente registrados y acreditados, con\nla finalidad de acreditar el cumplimiento de todos los\nelementos establecidos en el párrafo 17.2 del artículo 17.\nEl reglamento establece la entidad pública a cargo de la\nacreditación de terceros, la norma técnica de certificación\ny demás requisitos para la implementación adecuada de\nlos modelos de prevención."
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_finales_primera",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "PRIMERA",
+      "titulo": "Vigencia",
+      "texto": "Vigencia\nLa presente norma entra en vigencia el 1 de julio de\n7.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS FINALES"
+      },
+      "cita": "Ley 30424, Primera Disposición Complementaria Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Finales · Primera Disposición Complementaria Final\n\nVigencia\nLa presente norma entra en vigencia el 1 de julio de\n7."
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_finales_segunda",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "SEGUNDA",
+      "titulo": "Reglamento",
+      "texto": "Reglamento\nEl Poder Ejecutivo, dentro de los sesenta días hábiles\nsiguientes a la publicación de la presente Ley, aprueba\n\nel reglamento a que hace referencia el párrafo 17.3 del\nartículo 17.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS FINALES"
+      },
+      "cita": "Ley 30424, Segunda Disposición Complementaria Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Finales · Segunda Disposición Complementaria Final\n\nReglamento\nEl Poder Ejecutivo, dentro de los sesenta días hábiles\nsiguientes a la publicación de la presente Ley, aprueba\n\nel reglamento a que hace referencia el párrafo 17.3 del\nartículo 17."
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_finales_tercera",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "TERCERA",
+      "titulo": "Vía procesal",
+      "texto": "Vía procesal\n\nLa investigación, procesamiento y sanción de las\npersonas jurídicas, de conformidad con lo establecido\nen la presente Ley, se tramitan en el marco del proceso\npenal, al amparo de las normas y disposiciones del\nCódigo Procesal Penal, aprobado por el Decreto\nLegislativo 957.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS FINALES"
+      },
+      "cita": "Ley 30424, Tercera Disposición Complementaria Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Finales · Tercera Disposición Complementaria Final\n\nVía procesal\n\nLa investigación, procesamiento y sanción de las\npersonas jurídicas, de conformidad con lo establecido\nen la presente Ley, se tramitan en el marco del proceso\npenal, al amparo de las normas y disposiciones del\nCódigo Procesal Penal, aprobado por el Decreto\nLegislativo 957."
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_finales_cuarta",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "CUARTA",
+      "titulo": "Normas aplicables",
+      "texto": "Normas aplicables\n\nDurante la investigación y proceso penal, la persona\njurídica goza de todos los derechos y garantías que la\nConstitución Política del Perú y la normatividad vigente\nreconoce a favor del imputado.\n\nLa persona jurídica puede ser asistida por la defensa\npública, en caso lo requiera, bajo los alcances de la Ley\n29360, Ley del Servicio de Defensa Pública, del Decreto\nSupremo 007-2012-JUS y demás normas conexas, en lo\nque resulte pertinente.\n\nAsimismo, son aplicables los artículos 372 y 468 al\n471 del Código Procesal Penal, aprobado por el Decreto\nLegislativo 957, que regulan la conclusión anticipada\ndel juicio y el proceso de terminación anticipada\nrespectivamente, con plena intervención del apoderado\njudicial de la persona jurídica, y demás normas del citado\ncódigo que resulten pertinentes.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS FINALES"
+      },
+      "cita": "Ley 30424, Cuarta Disposición Complementaria Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Finales · Cuarta Disposición Complementaria Final\n\nNormas aplicables\n\nDurante la investigación y proceso penal, la persona\njurídica goza de todos los derechos y garantías que la\nConstitución Política del Perú y la normatividad vigente\nreconoce a favor del imputado.\n\nLa persona jurídica puede ser asistida por la defensa\npública, en caso lo requiera, bajo los alcances de la Ley\n29360, Ley del Servicio de Defensa Pública, del Decreto\nSupremo 007-2012-JUS y demás normas conexas, en lo\nque resulte pertinente.\n\nAsimismo, son aplicables los artículos 372 y 468 al\n471 del Código Procesal Penal, aprobado por el Decreto\nLegislativo 957, que regulan la conclusión anticipada\ndel juicio y el proceso de terminación anticipada\nrespectivamente, con plena intervención del apoderado\njudicial de la persona jurídica, y demás normas del citado\ncódigo que resulten pertinentes."
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_finales_quinta",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "QUINTA",
+      "titulo": "—Registro de personas",
+      "texto": "—Registro de personas\nsancionadas administrativamente\n\nEl Poder Judicial implementa un registro informático\nde carácter público para la inscripción de las medidas\nadministrativas impuestas a las personas jurídicas,\ncon expresa mención del nombre, clase de sanción y\nduración de la misma, así como el detalle del órgano\njurisdiccional y fecha de la sentencia firme, sin perjuicio de\ncursar partes a los Registros Públicos para la inscripción\ncorrespondiente, de ser el caso.\n\nEn caso de que las personas jurídicas cumplan con\nla medida administrativa impuesta, el juez, de oficio o a\npedido de parte, ordena su retiro del registro, salvo que la\nmedida tenga carácter definitivo.\n\nEl Poder Judicial puede suscribir convenios con otras\ninstituciones para compartir la información que conste en\nel registro.\n\nEl Poder Judicial, en el plazo de noventa días hábiles\ncontados a partir de la publicación de la presente Ley,\nemite las disposiciones reglamentarias pertinentes\nque regulen los procedimientos, acceso, restricciones,\nfuncionamiento del registro y demás aspectos necesarios\npara su efectiva implementación.\n\njurídicas",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS FINALES"
+      },
+      "cita": "Ley 30424, Quinta Disposición Complementaria Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Finales · Quinta Disposición Complementaria Final\n\n—Registro de personas\nsancionadas administrativamente\n\nEl Poder Judicial implementa un registro informático\nde carácter público para la inscripción de las medidas\nadministrativas impuestas a las personas jurídicas,\ncon expresa mención del nombre, clase de sanción y\nduración de la misma, así como el detalle del órgano\njurisdiccional y fecha de la sentencia firme, sin perjuicio de\ncursar partes a los Registros Públicos para la inscripción\ncorrespondiente, de ser el caso.\n\nEn caso de que las personas jurídicas cumplan con\nla medida administrativa impuesta, el juez, de oficio o a\npedido de parte, ordena su retiro del registro, salvo que la\nmedida tenga carácter definitivo.\n\nEl Poder Judicial puede suscribir convenios con otras\ninstituciones para compartir la información que conste en\nel registro.\n\nEl Poder Judicial, en el plazo de noventa días hábiles\ncontados a partir de la publicación de la presente Ley,\nemite las disposiciones reglamentarias pertinentes\nque regulen los procedimientos, acceso, restricciones,\nfuncionamiento del registro y demás aspectos necesarios\npara su efectiva implementación.\n\njurídicas"
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_finales_sexta",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "SEXTA",
+      "titulo": "Campañas de difusión",
+      "texto": "Campañas de difusión\n\nLa Comisión de Alto Nivel Anticorrupción, a través de\nsu Coordinación General, realiza campañas de difusión\nsobre los alcances de la norma, dirigida a las empresas,\na la policía, a los fiscales, a los procuradores, a los jueces\ny alos ciudadanos.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS FINALES"
+      },
+      "cita": "Ley 30424, Sexta Disposición Complementaria Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Finales · Sexta Disposición Complementaria Final\n\nCampañas de difusión\n\nLa Comisión de Alto Nivel Anticorrupción, a través de\nsu Coordinación General, realiza campañas de difusión\nsobre los alcances de la norma, dirigida a las empresas,\na la policía, a los fiscales, a los procuradores, a los jueces\ny alos ciudadanos."
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_finales_setima",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "SETIMA",
+      "titulo": "Financiamiento",
+      "texto": "Financiamiento\n\nLa implementación de lo establecido en la presente Ley\nse financia con cargo a los presupuestos institucionales\nde las entidades involucradas, sin demandar recursos\nadicionales al tesoro público.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS FINALES"
+      },
+      "cita": "Ley 30424, Setima Disposición Complementaria Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Finales · Setima Disposición Complementaria Final\n\nFinanciamiento\n\nLa implementación de lo establecido en la presente Ley\nse financia con cargo a los presupuestos institucionales\nde las entidades involucradas, sin demandar recursos\nadicionales al tesoro público."
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_finales_octava",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "OCTAVA",
+      "titulo": "Informe técnico de la Comisión de Alto",
+      "texto": "Informe técnico de la Comisión de Alto\nNivel Anticorrupción\n\nCualquier propuesta normativa que modifique la\npresente Ley o que implique la reducción o ampliación de\nsu objeto y alcances, cuenta para su aprobación con un\ninforme técnico no vinculante de la Comisión de Alto Nivel\nAnticorrupción.\n\nEn el supuesto de facultades delegadas a que se\nrefiere el artículo 104 de la Constitución Política del Perú,\nel sector responsable solicita el referido informe técnico a\nla Comisión de Alto Nivel Anticorrupción.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS FINALES"
+      },
+      "cita": "Ley 30424, Octava Disposición Complementaria Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Finales · Octava Disposición Complementaria Final\n\nInforme técnico de la Comisión de Alto\nNivel Anticorrupción\n\nCualquier propuesta normativa que modifique la\npresente Ley o que implique la reducción o ampliación de\nsu objeto y alcances, cuenta para su aprobación con un\ninforme técnico no vinculante de la Comisión de Alto Nivel\nAnticorrupción.\n\nEn el supuesto de facultades delegadas a que se\nrefiere el artículo 104 de la Constitución Política del Perú,\nel sector responsable solicita el referido informe técnico a\nla Comisión de Alto Nivel Anticorrupción."
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_finales_novena",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "NOVENA",
+      "titulo": "maliciosas",
+      "texto": "maliciosas\n\nLa presentación de denuncias maliciosas en el marco\nde la presente Ley da lugar a responsabilidad penal, civil,\nadministrativa y disciplinaria, conforme a ley.\n\nResponsabilidad por denuncias",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS FINALES"
+      },
+      "cita": "Ley 30424, Novena Disposición Complementaria Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Finales · Novena Disposición Complementaria Final\n\nmaliciosas\n\nLa presentación de denuncias maliciosas en el marco\nde la presente Ley da lugar a responsabilidad penal, civil,\nadministrativa y disciplinaria, conforme a ley.\n\nResponsabilidad por denuncias"
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_modificatorias_primera",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "PRIMERA",
+      "titulo": "Incorporación del articulo 401-C al",
+      "texto": "Incorporación del articulo 401-C al\nCódigo Penal\n\nIncorpórase el artículo 401-C al Código Penal con el\ntexto siguiente:\n\nArtículo 401.- C. Multa aplicable a las personas\njurídicas\n\nCuando las personas jurídicas señaladas en el\nartículo 2 de la Ley que regula la responsabilidad\nadministrativa autónoma de las personas jurídicas\npor el delito de cohecho activo transnacional resulten\nresponsables por el delito previsto en el artículo 397A, el juez impone la medida de multa, conforme al\nliteral a del artículo 5 de la citada norma, sin perjuicio\nde las demás medidas administrativas allí previstas\nque resulten aplicables”.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS MODIFICATORIAS"
+      },
+      "cita": "Ley 30424, Primera Disposición Complementaria Modificatoria",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Modificatorias · Primera Disposición Complementaria Modificatoria\n\nIncorporación del articulo 401-C al\nCódigo Penal\n\nIncorpórase el artículo 401-C al Código Penal con el\ntexto siguiente:\n\nArtículo 401.- C. Multa aplicable a las personas\njurídicas\n\nCuando las personas jurídicas señaladas en el\nartículo 2 de la Ley que regula la responsabilidad\nadministrativa autónoma de las personas jurídicas\npor el delito de cohecho activo transnacional resulten\nresponsables por el delito previsto en el artículo 397A, el juez impone la medida de multa, conforme al\nliteral a del artículo 5 de la citada norma, sin perjuicio\nde las demás medidas administrativas allí previstas\nque resulten aplicables”."
+    },
+    {
+      "id": "ley_30424::ley::disp_disposiciones_complementarias_modificatorias_segunda",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "SEGUNDA",
+      "titulo": "Incorporación del artículo 313-A al",
+      "texto": "Incorporación del artículo 313-A al\nCódigo Procesal Penal\n\nIncorpórase el artículo 313-A al Código Procesal\nPenal, Decreto Legislativo 957, con el texto siguiente:\n\nArtículo 313.- A. Medidas cautelares en casos\nde responsabilidad administrativa autónoma de\npersonas jurídicas\n\nEn los supuestos previstos en la Ley que regula\nla responsabilidad administrativa autónoma de las\npersonas jurídicas por el delito de cohecho activo\ntransnacional, el juez, a pedido de parte legitimada,\npuede ordenar, además de las medidas establecidas\nen el numeral 1 del artículo 313, las siguientes:\n\na. Prohibición de actividades futuras de la misma\nclase oO naturaleza de aquellas con cuya\nrealización se habría cometido, favorecido O\nencubierto el delito.\n\nb. Suspensión para contratar con el Estado.\n\nLa imposición de las medidas señaladas en el primer\npárrafo procede siempre que existan suficientes\nelementos probatorios sobre la responsabilidad\nadministrativa de la persona jurídica por el delito de\ncohecho activo transnacional y que fuese indispensable\npara prevenir los riesgos de ocultamiento de bienes\no de insolvencia sobrevenida o para impedir la\nobstaculización de la averiguación de la verdad.\nEstas medidas cautelares no duran más de la mitad\ndel tiempo fijado para las medidas de carácter temporal\nprevistas en el artículo 5 de la Ley que regula la\nresponsabilidad administrativa autónoma de las personas\nJurídicas por el delito de cohecho activo transnacional”.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": "V",
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS MODIFICATORIAS"
+      },
+      "cita": "Ley 30424, Segunda Disposición Complementaria Modificatoria",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que regula la responsabilidad administrativa de las personas jurídicas por el delito de cohecho activo transnacional (Ley 30424) · Disposiciones Complementarias Modificatorias · Segunda Disposición Complementaria Modificatoria\n\nIncorporación del artículo 313-A al\nCódigo Procesal Penal\n\nIncorpórase el artículo 313-A al Código Procesal\nPenal, Decreto Legislativo 957, con el texto siguiente:\n\nArtículo 313.- A. Medidas cautelares en casos\nde responsabilidad administrativa autónoma de\npersonas jurídicas\n\nEn los supuestos previstos en la Ley que regula\nla responsabilidad administrativa autónoma de las\npersonas jurídicas por el delito de cohecho activo\ntransnacional, el juez, a pedido de parte legitimada,\npuede ordenar, además de las medidas establecidas\nen el numeral 1 del artículo 313, las siguientes:\n\na. Prohibición de actividades futuras de la misma\nclase oO naturaleza de aquellas con cuya\nrealización se habría cometido, favorecido O\nencubierto el delito.\n\nb. Suspensión para contratar con el Estado.\n\nLa imposición de las medidas señaladas en el primer\npárrafo procede siempre que existan suficientes\nelementos probatorios sobre la responsabilidad\nadministrativa de la persona jurídica por el delito de\ncohecho activo transnacional y que fuese indispensable\npara prevenir los riesgos de ocultamiento de bienes\no de insolvencia sobrevenida o para impedir la\nobstaculización de la averiguación de la verdad.\nEstas medidas cautelares no duran más de la mitad\ndel tiempo fijado para las medidas de carácter temporal\nprevistas en el artículo 5 de la Ley que regula la\nresponsabilidad administrativa autónoma de las personas\nJurídicas por el delito de cohecho activo transnacional”."
+    }
+  ]
+}

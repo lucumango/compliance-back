@@ -1,0 +1,16 @@
+# Dependencias para procesar los PDFs. Solo se usan en local, al reconstruir
+# el corpus; no hacen falta en el servidor y añadirlas encarecería el
+# despliegue (OpenCV y PyMuPDF pesan, y Tesseract es un binario del sistema).
+-r requirements.txt
+
+pymupdf==1.26.5
+
+# OCR para los escaneos (ley_27693, ley_30424).
+# Requiere el binario de Tesseract con idioma español:
+#   brew install tesseract tesseract-lang
+pytesseract==0.3.13
+pillow==11.0.0
+
+# Borrado de subrayados antes del OCR: sin esto los encabezados de artículo
+# subrayados se reconocen mal y se pierden los límites de artículo.
+opencv-python-headless==5.0.0.93

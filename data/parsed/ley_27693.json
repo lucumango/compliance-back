@@ -1,0 +1,443 @@
+{
+  "norma_id": "ley_27693",
+  "tipo": "ley",
+  "numero": "27693",
+  "nombre": "Ley que crea la Unidad de Inteligencia Financiera - Perú",
+  "materia": "laft",
+  "entidad_reguladora": [
+    "SBS",
+    "UIF-Perú"
+  ],
+  "fecha_publicacion": null,
+  "url_fuente": null,
+  "metadata_verificada": false,
+  "notas": "Escaneo de El Peruano procesado por OCR; el texto puede contener errores de reconocimiento y requiere cotejo con SPIJ.",
+  "extraccion": {
+    "archivo": "ley_27693.pdf",
+    "paginas": 4,
+    "paginas_ocr": 4,
+    "requiere_cotejo": true
+  },
+  "unidades": [
+    {
+      "id": "ley_27693::ley::art_1",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "1",
+      "titulo": "%.- Objeto de la Unidad de Inteligencia Flnanclera",
+      "texto": "%.- Objeto de la Unidad de Inteligencia Flnanclera\n\nCréase la Unidad de Inteligencia Financiera, que también se la denomina UIF, con personería jurídica de Derecho Público, con autonomía tuncional, técnica y adminis-\n\ntrativa, encargada del análisis, el tratamiento y la transmisión de información para prevenir y detectar el lavado de\ndinero o activos, con pliego presupuestal adscrito al Ministerio de Economía y Finanzas.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 1",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 1\n\n%.- Objeto de la Unidad de Inteligencia Flnanclera\n\nCréase la Unidad de Inteligencia Financiera, que también se la denomina UIF, con personería jurídica de Derecho Público, con autonomía tuncional, técnica y adminis-\n\ntrativa, encargada del análisis, el tratamiento y la transmisión de información para prevenir y detectar el lavado de\ndinero o activos, con pliego presupuestal adscrito al Ministerio de Economía y Finanzas."
+    },
+    {
+      "id": "ley_27693::ley::art_2",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "2",
+      "titulo": "- Recursos Económicos de la UIF",
+      "texto": "- Recursos Económicos de la UIF\n¡ ¡constituyen recursos que financian las actividades de\na VIF:\n\n1. Lastransferencias que realice el Ministerio de Economía y Finanzas.\n\nLas donaciones de Estado a Estado.\n\nLas ayudas que provengan de convenios internacionales.\n\nEl 10% del patrimonio que el Estado incaute producto de las investigaciones y denuncias de la UIF,\nculminadas las acciones legales respectivas.\n\n?> -..",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 2",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 2\n\n- Recursos Económicos de la UIF\n¡ ¡constituyen recursos que financian las actividades de\na VIF:\n\n1. Lastransferencias que realice el Ministerio de Economía y Finanzas.\n\nLas donaciones de Estado a Estado.\n\nLas ayudas que provengan de convenios internacionales.\n\nEl 10% del patrimonio que el Estado incaute producto de las investigaciones y denuncias de la UIF,\nculminadas las acciones legales respectivas.\n\n?> -.."
+    },
+    {
+      "id": "ley_27693::ley::art_3",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "3",
+      "titulo": "- Funciones de la UIF",
+      "texto": "- Funciones de la UIF\nLa Unidad de Inteligencia Financiera tiene las siguientes funciones:\n\n1. Es responsable de solicitar, recibir y analizar información sobre las transacciones sospechosas que\nle presenten los sujetos obligados a informar por\nesta Ley.\n\n2. Es responsable de solicitar ta ampliación de la información antes citada con el sustento debido, recibir y analizar los Registros de Transacciones.\n\n3. Está facultado para solicitar a las personas obligadas, por esta Ley, la información que considere relevante para la prevención y análisis del lavado de\ndinero o de activos.\n\n4. Esresponsable de comunicar al Ministerio Público\naquellas transacciones que luego de la investigación y análisis respectivos, se presuma que estén\n\n“ vinculadas a actividades de lavado de dinero o de\nactivos para que proceda de acuerdo a ley.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 3",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 3\n\n- Funciones de la UIF\nLa Unidad de Inteligencia Financiera tiene las siguientes funciones:\n\n1. Es responsable de solicitar, recibir y analizar información sobre las transacciones sospechosas que\nle presenten los sujetos obligados a informar por\nesta Ley.\n\n2. Es responsable de solicitar ta ampliación de la información antes citada con el sustento debido, recibir y analizar los Registros de Transacciones.\n\n3. Está facultado para solicitar a las personas obligadas, por esta Ley, la información que considere relevante para la prevención y análisis del lavado de\ndinero o de activos.\n\n4. Esresponsable de comunicar al Ministerio Público\naquellas transacciones que luego de la investigación y análisis respectivos, se presuma que estén\n\n“ vinculadas a actividades de lavado de dinero o de\nactivos para que proceda de acuerdo a ley."
+    },
+    {
+      "id": "ley_27693::ley::art_4",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "4",
+      "titulo": "- Consejo Consultivo",
+      "texto": "- Consejo Consultivo\nLa UIF cuenta con un Consejo Consultivo, con la finalidad de realizar una adecuada labor de coordinación en la\nelaboración de estrategias, políticas y procedimientos para\nla prevención del lavado de dinero o de activos, así como\nara atender los casos que el Director Ejecutivo de dicha\nnidad considere necesario someter a su opinión, y está\nconstituido por:\n\n1. Un representante de la Superintendencia de Banca\nYoeguros. quien la presidirá.\n\nn representante del Ministerio Público.\nUn representante de la Superintendencia Nacional\nde Administración Tributaria (SUNAT).\nUn representante de Aduanas.\nUn representante de la Comisión Nacional Supervisora de Empresas y Valores (CONASEV).\n\nva pm.»\n\nEl Director Ejecutivo actúa como secretario.\n\nTambién podrán integrar este órgano representantes de\notros Organismos de Control, en la medida de que existan\npersonas naturales y/o jurídicas sujetas a su supervisión\nque por crearse reporten información para la prevención\ndel lavado de dinero o activos a la UIF, así como representantes de otros organismos cuya participación resulte necesaria para sus fines, según establezca el Reglamento\ncorrespondiente.\n\nLos miembros del Consejo Consultivo son designados\npor el órgano de mayor jerarquía de la entidad que representan.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 4",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 4\n\n- Consejo Consultivo\nLa UIF cuenta con un Consejo Consultivo, con la finalidad de realizar una adecuada labor de coordinación en la\nelaboración de estrategias, políticas y procedimientos para\nla prevención del lavado de dinero o de activos, así como\nara atender los casos que el Director Ejecutivo de dicha\nnidad considere necesario someter a su opinión, y está\nconstituido por:\n\n1. Un representante de la Superintendencia de Banca\nYoeguros. quien la presidirá.\n\nn representante del Ministerio Público.\nUn representante de la Superintendencia Nacional\nde Administración Tributaria (SUNAT).\nUn representante de Aduanas.\nUn representante de la Comisión Nacional Supervisora de Empresas y Valores (CONASEV).\n\nva pm.»\n\nEl Director Ejecutivo actúa como secretario.\n\nTambién podrán integrar este órgano representantes de\notros Organismos de Control, en la medida de que existan\npersonas naturales y/o jurídicas sujetas a su supervisión\nque por crearse reporten información para la prevención\ndel lavado de dinero o activos a la UIF, así como representantes de otros organismos cuya participación resulte necesaria para sus fines, según establezca el Reglamento\ncorrespondiente.\n\nLos miembros del Consejo Consultivo son designados\npor el órgano de mayor jerarquía de la entidad que representan."
+    },
+    {
+      "id": "ley_27693::ley::art_5",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "5",
+      "titulo": "?.- La Dirección Ejecutiva",
+      "texto": "?.- La Dirección Ejecutiva\n\nLa Dirección Ejecutiva está a cargo del Director Ejecutivo, quien dirige y administra la UIF, es el titular del pliego\npresupuestal de la UIF, está obligado a dar cuenta de los\nactos de la Unidad al Ministro de Economía y Finanzas. En\nrepresentación de la UIF comunica al Ministerio Público\nlos casos que se presuma están vinculados a actividades\nde lavado de dinero o de activos,\n\nEl Director Ejecutivo es designado por el Superintendente Nacional de Banca y Seguros y ejerce el cargo por\nel periodo de 3 (tres) años, pudiendo ser nombrado por un\nperíodo más. Continuará en el ejercicio mientras no se designe a su sucesor.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 5",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 5\n\n?.- La Dirección Ejecutiva\n\nLa Dirección Ejecutiva está a cargo del Director Ejecutivo, quien dirige y administra la UIF, es el titular del pliego\npresupuestal de la UIF, está obligado a dar cuenta de los\nactos de la Unidad al Ministro de Economía y Finanzas. En\nrepresentación de la UIF comunica al Ministerio Público\nlos casos que se presuma están vinculados a actividades\nde lavado de dinero o de activos,\n\nEl Director Ejecutivo es designado por el Superintendente Nacional de Banca y Seguros y ejerce el cargo por\nel periodo de 3 (tres) años, pudiendo ser nombrado por un\nperíodo más. Continuará en el ejercicio mientras no se designe a su sucesor."
+    },
+    {
+      "id": "ley_27693::ley::art_6",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "6",
+      "titulo": "- Del personal de la UIF",
+      "texto": "- Del personal de la UIF\nEl equipo técnico de la ULF está conformado por un grupo de personas que al igual que el Director Ejecutivo de-\n\nben contar con solvencia moral, de comprobada capacitación y experiencia en operaciones bancarias, afines o en\nla investigación de delitos financieros y/o lavado de dinero\no de activos. El personal está sujeto al régimen laboral de\nla actividad privada.\n\nEl cargo de Director Ejecutivo y del personal de la UIF\nes incompatible con el desempeño de cualquier otra actividad profesional o técnica, sea pública o privada, de contormidad con la Ley N*? 27588, Artículo 2*, excepto la docencia. -",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 6",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 6\n\n- Del personal de la UIF\nEl equipo técnico de la ULF está conformado por un grupo de personas que al igual que el Director Ejecutivo de-\n\nben contar con solvencia moral, de comprobada capacitación y experiencia en operaciones bancarias, afines o en\nla investigación de delitos financieros y/o lavado de dinero\no de activos. El personal está sujeto al régimen laboral de\nla actividad privada.\n\nEl cargo de Director Ejecutivo y del personal de la UIF\nes incompatible con el desempeño de cualquier otra actividad profesional o técnica, sea pública o privada, de contormidad con la Ley N*? 27588, Artículo 2*, excepto la docencia. -"
+    },
+    {
+      "id": "ley_27693::ley::art_7",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "7",
+      "titulo": "?.- De la estructura administrativa de la UIF",
+      "texto": "?.- De la estructura administrativa de la UIF\n\nLa estructura administrativa de la UIF parte de la Dirección Ejecutiva, cuyas funciones complementarias y del resto\ndel personal de la UIF serán establecidas en el Reglamento. Las causales de revocación y remoción serán establecidas en el Reglamento.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 7",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 7\n\n?.- De la estructura administrativa de la UIF\n\nLa estructura administrativa de la UIF parte de la Dirección Ejecutiva, cuyas funciones complementarias y del resto\ndel personal de la UIF serán establecidas en el Reglamento. Las causales de revocación y remoción serán establecidas en el Reglamento."
+    },
+    {
+      "id": "ley_27693::ley::art_8",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "8",
+      "titulo": "- De los sujetos obligados a informar",
+      "texto": "- De los sujetos obligados a informar\n\nEstán obligadas a proporcionar la Información a que se\nrefiere el Artículo 3? de la presente Ley las siguientes personas naturales o jurídicas:\n\n1. Las empresas del sistema financiero y del sistema\nde seguros y demás comprendidas en los Artículos 16* y 17* de la Ley General del Sistema Financiero y del Sistema de Seguros y Orgánica de la\nSuperintendencia de Banca y Seguros, Ley N*\n26702.\n\nLas empresas emisoras de tarjetas de crédito y/o\n\ndébito.\n\nLas Cooperativas de Ahorro y Crédito.\n\nLos fideicomisarios o administradores de bienes,\n\nempresas o consorcios.\n\nLas sociedades agentes de bolsa y sociedades in-\n\ntermediarias de valores.\n\nLas sociedades administradoras de tondos mutuos,\n\nfondos de inversión, fondos colectivos, y fondos/ se-\n\nguros de pensiones.\n\n7. La Bolsa de Valores, otros mecanismos centralizados de negociación e instituciones de compensación y liquidación de valores.\n\n8. La Bolsa de Productos.\n\n9. Las empresas o personas naturales dedicadas a la\ncompra y venta de automóviles, embarcaciones y\naeronaves.\n\n10. Las empresas o personas naturales dedicadas a la\nactividad de la construcción e inmobiliarias.\n\n11. Los casinos, sociedades de lotería y casas de juegos, incluyendo bingos, hipódromos y sus agencias,\n\n12. Los almacenes generales de depósitos.\n\n13. Las agencias de aduanas.\n\n14. Las empresas que permitan que mediante sus programas y sistemas de informática se realicen transacciones sospechosas.\n\nDo >3>3...P»\n\nAsimismo quedan obligados a informar a la UIF, con\nrespecto a transacciones sospechosas, transacciones de\nacuerdo al monto que tije el Reglamento, las personas naturales o jurídicas que se dediquen a las actividades de:\n\n15. La compra y venta de divisas.\n\n16. El servicio de correo y courrier.\n\n17. El comercio de antiguedades.\n\n18. El comercio de joyas, metales y piedras preciosas,\nmonedas, objetos de arte y sellos postales.\n\n19. Los préstamos y empeño.\n\n20. Las agencias de viajes y turismo, hoteles y restaurantes,\n\n21. Los Notarios Públicos. *\n\n22. Las personas jurídicas que reciben donaciones o\naportes de terceros.\n\n23. Los despachadores de operaciones de importación\ny exportación.\n\n24. Los servicios de cajas de seguridad y consignaciones, que serán abiertas con autorización de su titular o por mandato judicial.\n\nDel mismo modo quedan obligadas a proporcionar información cuando sea requerida para efectos de análisis:\n\n25. La Superintendencia Nacional de Administración Tributaria.\n\n26. Aduanas.\n\n27. La Comisión Nacional Supervisora de Valores.\n\n28. Los Registros Públicos.\n\n29. Las Centrales de Riesgo Público o Privado.\n\n30. El Registro Nacional de Identificación y Estado Civil.\n\nMediante decreto supremo, refrendado por el Presidente\ndej Consejo de Ministros y el Ministro de Economía y Finanzas, se ampliará la lista de personas naturales o juridicas obligadas a proporcionar la información que establece\neste artículo,",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 8",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 8\n\n- De los sujetos obligados a informar\n\nEstán obligadas a proporcionar la Información a que se\nrefiere el Artículo 3? de la presente Ley las siguientes personas naturales o jurídicas:\n\n1. Las empresas del sistema financiero y del sistema\nde seguros y demás comprendidas en los Artículos 16* y 17* de la Ley General del Sistema Financiero y del Sistema de Seguros y Orgánica de la\nSuperintendencia de Banca y Seguros, Ley N*\n26702.\n\nLas empresas emisoras de tarjetas de crédito y/o\n\ndébito.\n\nLas Cooperativas de Ahorro y Crédito.\n\nLos fideicomisarios o administradores de bienes,\n\nempresas o consorcios.\n\nLas sociedades agentes de bolsa y sociedades in-\n\ntermediarias de valores.\n\nLas sociedades administradoras de tondos mutuos,\n\nfondos de inversión, fondos colectivos, y fondos/ se-\n\nguros de pensiones.\n\n7. La Bolsa de Valores, otros mecanismos centralizados de negociación e instituciones de compensación y liquidación de valores.\n\n8. La Bolsa de Productos.\n\n9. Las empresas o personas naturales dedicadas a la\ncompra y venta de automóviles, embarcaciones y\naeronaves.\n\n10. Las empresas o personas naturales dedicadas a la\nactividad de la construcción e inmobiliarias.\n\n11. Los casinos, sociedades de lotería y casas de juegos, incluyendo bingos, hipódromos y sus agencias,\n\n12. Los almacenes generales de depósitos.\n\n13. Las agencias de aduanas.\n\n14. Las empresas que permitan que mediante sus programas y sistemas de informática se realicen transacciones sospechosas.\n\nDo >3>3...P»\n\nAsimismo quedan obligados a informar a la UIF, con\nrespecto a transacciones sospechosas, transacciones de\nacuerdo al monto que tije el Reglamento, las personas naturales o jurídicas que se dediquen a las actividades de:\n\n15. La compra y venta de divisas.\n\n16. El servicio de correo y courrier.\n\n17. El comercio de antiguedades.\n\n18. El comercio de joyas, metales y piedras preciosas,\nmonedas, objetos de arte y sellos postales.\n\n19. Los préstamos y empeño.\n\n20. Las agencias de viajes y turismo, hoteles y restaurantes,\n\n21. Los Notarios Públicos. *\n\n22. Las personas jurídicas que reciben donaciones o\naportes de terceros.\n\n23. Los despachadores de operaciones de importación\ny exportación.\n\n24. Los servicios de cajas de seguridad y consignaciones, que serán abiertas con autorización de su titular o por mandato judicial.\n\nDel mismo modo quedan obligadas a proporcionar información cuando sea requerida para efectos de análisis:\n\n25. La Superintendencia Nacional de Administración Tributaria.\n\n26. Aduanas.\n\n27. La Comisión Nacional Supervisora de Valores.\n\n28. Los Registros Públicos.\n\n29. Las Centrales de Riesgo Público o Privado.\n\n30. El Registro Nacional de Identificación y Estado Civil.\n\nMediante decreto supremo, refrendado por el Presidente\ndej Consejo de Ministros y el Ministro de Economía y Finanzas, se ampliará la lista de personas naturales o juridicas obligadas a proporcionar la información que establece\neste artículo,"
+    },
+    {
+      "id": "ley_27693::ley::art_9",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "9",
+      "titulo": "- Registro de Transacciones",
+      "texto": "- Registro de Transacciones\nLas transacciones para los efectos de la presente Ley\nse sujetarán a las siguientes reglas:\n\n1. Lossujetos obligados a informar, conforme a la presente Ley, deben registrar cada transacción que\nsupere el monto que se establezca en el Reglamento respectivo por los siguientes conceptos:\n\na) Depósitos en efectivo: en cuenta corriente, en\ncuenta de ahorros, a plazo fijo y en otras modalidades a plazo.\n\nb) Depósitos constituidos con títulos valores, computados según su valor de cotización al cierre\ndel día anterior a la imposición.\n\nc) Colocación de obligaciones negociables y otros\ntítulos valores de deuda emitidos por la propia\nentidad.\n\nd) Compraventa de títulos valores -públicas o privados- o de cuotapartes de fondos comunes de\ninversión.\n\ne) Compraventa de metales preciosos (oro, plata,\nplatino).\n\nt) Compraventa en efectivo de moneda extranjera.\n\ng) Giros o transterencias emitidos y recibidos (interno y externo) cualesquiera sea la forma utilizada para cursar las operaciones y su destino\n(depósitos, pases, compraventa de títulos, etc.).\n\nh) Compraventa de cheques girados contra cuentas del exterior y de cheques de viajero.\n\n1) Pago de importaciones.\n\njj) Cobra de exportaciones.\n\nk) Venta de cartera de la entidad financiera a terceroS.\n\nIl) Servicios de amortización de préstamos.\n\nm)Cancelaciones anticipadas de préstamos.\n\nn) Constitución de fideicomisos y todo tipo de otros\nencargos fiduciarios.\n\n0) Compraventa de bienes y servicios.\n\np) Transacciones a futuro pactados con los clientes.\n\n- q) Otras operaciones o transacciones que se consideren de importancia que establezca el Reglamento.\n\n2. Las características del registro serán especificadas\nen el Reglamento correspondiente debiendo contener, por lo menos, en relación con cada transacción, lo siguiente:\n\na) La identidad y domicilio de sus clientes habitua-\n\nles o no, acreditada mediante la presentación del\ndocumento en el momento de entablar relaciones comerciales y, principalmente, al efectuar una\ntransacción, según lo dispuesto en el presente\nartículo. Para tales efectos, se deberá registrar\ny verificar por medios fehacientes la identidad,\nrepresentación, domicilio, capacidad legal, ocupación y objeto social de las personas jurídicas,\nasí como cualquier otra información sobre la identidad de las mismas, a través de documentos,\ntales como Documento Nacional de Identidad,\npasaporte, partida de nacimiento, licencia de\nconducir, contratos sociales, estatutos, o cualesquiera otros documentos oficiales o privados,\nsobre la identidad y señas particulares de sus\nclientes.\nLos sujetos obligados deben adoptar medidas razonables para obtener, registrar y actualizar la\ninformación sobre la verdadera identidad de sus\nclientes, habituales o no, y las transacciones\ncomerciales realizadas a que se refiere el presente artículo.\n\nb) Descripción del tipo de transacción, monto, moneda, cuenta(s) involucrada(s) cuando corresponda, lugar(es) donde se realizó la transacción\ny fecha.\n\nc) Cualquier otra información que la Unidad de Inteligencia Financiera requiera.\n\n3. El registro debe ser llevado en forma precisa y completa por los sujetos obligados, en el día en que\nhaya ocurrido la transacción y se conservará durante 10 (diez) años a partir de la fecha de la misma, utilizando para tal fin medios informáticos, microfilmación o medios similares, registro que se\nconserva en un medio de fácil recuperación, debiendo conformarse una copia de seguridad a! fin de\ncada trimestre, que se compendiarán en períodos\nde cinco años. La copia de seguridad del último quinquenio estará a disposición de la UIF y del Ministerio Público dentro de las 48 horas hábiles de ser\nrequerida.\n\n4. La obligación de reportar las transacciones no será\nde aplicación, cuando se trate de clientes habituales bajo responsabilidad de los obligados a registrar y, respecto de los cuales, los sujetos obligados\ntengan conocimiento suficiente y debidamente justificado de la licitud de sus actividades, previa evaluación y revisión periódica del Oficial de Cumplimiento y de quien reporte a él.\n\n5. Las transacciones múltiples que en conjunto superen determinado monto conforme al Reglamento\nserán consideradas como una sola transacción si\nson realizadas por o en beneficio de determinada\npersona durante un día, o en cualquier otro plazo\nque fije el Reglamento correspondiente. En tal caso,\ncuando los sujetos obligados o sus trabajadores\ntengan conocimiento de las transacciones, deberán efectuar el registro establecido en este artículo:\n\na) Los registros deben estar a disposición de los\nórganos jurisdiccionales o autoridad competente, conforme a ley.\n\nb) La UIF, cuando lo considere conveniente y en el\nplazo que ella fije, puede establecer que las personas obligadas a informar, a que se refiere el\n\nArtículo 8.- , le proporcionen información con respecto al registro de transacciones. .\n\nc) Las personas obligadas que cuenten con los\nmedios informáticos podrán dar su consentimiento para su interconexión con los de la UIF para\nviabilizar y agilizar el proceso de captación de\ninformación.\n\nd) En las transacciones realizadas por cuenta propia\nentre las empresas sujetas a supervisión de la Superintendencia de Banca y Seguros, no se requiere el registro referido en este artículo.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 9",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 9\n\n- Registro de Transacciones\nLas transacciones para los efectos de la presente Ley\nse sujetarán a las siguientes reglas:\n\n1. Lossujetos obligados a informar, conforme a la presente Ley, deben registrar cada transacción que\nsupere el monto que se establezca en el Reglamento respectivo por los siguientes conceptos:\n\na) Depósitos en efectivo: en cuenta corriente, en\ncuenta de ahorros, a plazo fijo y en otras modalidades a plazo.\n\nb) Depósitos constituidos con títulos valores, computados según su valor de cotización al cierre\ndel día anterior a la imposición.\n\nc) Colocación de obligaciones negociables y otros\ntítulos valores de deuda emitidos por la propia\nentidad.\n\nd) Compraventa de títulos valores -públicas o privados- o de cuotapartes de fondos comunes de\ninversión.\n\ne) Compraventa de metales preciosos (oro, plata,\nplatino).\n\nt) Compraventa en efectivo de moneda extranjera.\n\ng) Giros o transterencias emitidos y recibidos (interno y externo) cualesquiera sea la forma utilizada para cursar las operaciones y su destino\n(depósitos, pases, compraventa de títulos, etc.).\n\nh) Compraventa de cheques girados contra cuentas del exterior y de cheques de viajero.\n\n1) Pago de importaciones.\n\njj) Cobra de exportaciones.\n\nk) Venta de cartera de la entidad financiera a terceroS.\n\nIl) Servicios de amortización de préstamos.\n\nm)Cancelaciones anticipadas de préstamos.\n\nn) Constitución de fideicomisos y todo tipo de otros\nencargos fiduciarios.\n\n0) Compraventa de bienes y servicios.\n\np) Transacciones a futuro pactados con los clientes.\n\n- q) Otras operaciones o transacciones que se consideren de importancia que establezca el Reglamento.\n\n2. Las características del registro serán especificadas\nen el Reglamento correspondiente debiendo contener, por lo menos, en relación con cada transacción, lo siguiente:\n\na) La identidad y domicilio de sus clientes habitua-\n\nles o no, acreditada mediante la presentación del\ndocumento en el momento de entablar relaciones comerciales y, principalmente, al efectuar una\ntransacción, según lo dispuesto en el presente\nartículo. Para tales efectos, se deberá registrar\ny verificar por medios fehacientes la identidad,\nrepresentación, domicilio, capacidad legal, ocupación y objeto social de las personas jurídicas,\nasí como cualquier otra información sobre la identidad de las mismas, a través de documentos,\ntales como Documento Nacional de Identidad,\npasaporte, partida de nacimiento, licencia de\nconducir, contratos sociales, estatutos, o cualesquiera otros documentos oficiales o privados,\nsobre la identidad y señas particulares de sus\nclientes.\nLos sujetos obligados deben adoptar medidas razonables para obtener, registrar y actualizar la\ninformación sobre la verdadera identidad de sus\nclientes, habituales o no, y las transacciones\ncomerciales realizadas a que se refiere el presente artículo.\n\nb) Descripción del tipo de transacción, monto, moneda, cuenta(s) involucrada(s) cuando corresponda, lugar(es) donde se realizó la transacción\ny fecha.\n\nc) Cualquier otra información que la Unidad de Inteligencia Financiera requiera.\n\n3. El registro debe ser llevado en forma precisa y completa por los sujetos obligados, en el día en que\nhaya ocurrido la transacción y se conservará durante 10 (diez) años a partir de la fecha de la misma, utilizando para tal fin medios informáticos, microfilmación o medios similares, registro que se\nconserva en un medio de fácil recuperación, debiendo conformarse una copia de seguridad a! fin de\ncada trimestre, que se compendiarán en períodos\nde cinco años. La copia de seguridad del último quinquenio estará a disposición de la UIF y del Ministerio Público dentro de las 48 horas hábiles de ser\nrequerida.\n\n4. La obligación de reportar las transacciones no será\nde aplicación, cuando se trate de clientes habituales bajo responsabilidad de los obligados a registrar y, respecto de los cuales, los sujetos obligados\ntengan conocimiento suficiente y debidamente justificado de la licitud de sus actividades, previa evaluación y revisión periódica del Oficial de Cumplimiento y de quien reporte a él.\n\n5. Las transacciones múltiples que en conjunto superen determinado monto conforme al Reglamento\nserán consideradas como una sola transacción si\nson realizadas por o en beneficio de determinada\npersona durante un día, o en cualquier otro plazo\nque fije el Reglamento correspondiente. En tal caso,\ncuando los sujetos obligados o sus trabajadores\ntengan conocimiento de las transacciones, deberán efectuar el registro establecido en este artículo:\n\na) Los registros deben estar a disposición de los\nórganos jurisdiccionales o autoridad competente, conforme a ley.\n\nb) La UIF, cuando lo considere conveniente y en el\nplazo que ella fije, puede establecer que las personas obligadas a informar, a que se refiere el\n\nArtículo 8.- , le proporcionen información con respecto al registro de transacciones. .\n\nc) Las personas obligadas que cuenten con los\nmedios informáticos podrán dar su consentimiento para su interconexión con los de la UIF para\nviabilizar y agilizar el proceso de captación de\ninformación.\n\nd) En las transacciones realizadas por cuenta propia\nentre las empresas sujetas a supervisión de la Superintendencia de Banca y Seguros, no se requiere el registro referido en este artículo."
+    },
+    {
+      "id": "ley_27693::ley::art_10",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "10",
+      "titulo": "- De la supervisión del sistema de prevención",
+      "texto": "- De la supervisión del sistema de prevención\n\nLos órganos supervisores señalados en los incisos 1,\n2 y 3 del presente artículo, deberán de ejercer la función\nde acuerdo a lo previsto en el Reglamento de la presente\nLey y sus propios mecanismos de supervisión que deben\nconsiderar específicamente las responsabilidades y alcances del informe del Oficial de Cumplimiento, Auditoría interna y Auditoría Externa, respectivamente, así como las\nresponsabilidades de directores y gerentes a fin de establecer la existencia de negligencia inexcusable ante el incumplimiento de éstas.\n\nPara el cumplimiento de sus funciones de supervisión\nse apoyarán en los siguientes agentes:\n\n1. Oficial de Cumplimiento. El Directorio de las personas jurídicas o empresas del sistema financiero, seguros, bursátil, emisoras de tarjetas de crédito, fondos mutuos, fondos de inversión, fondos colectivos,\nfondos de pensiones, transferencia de fondos y\ntransporte de caudales, deben designar a un funcionario de nivel de gerente denominado Oficial de\nCumplimiento a dedicación exclusiva, quien se encargará de vigilar el cumplimiento del sistema de\nprevención dentro de la empresa y reportar directamente al Directorio o al Comité Ejecutivo de su\nempresa, debiéndosele asignar los recursos e infraestructura para el cumplimiento de sus responsabilidades.\n\nLas otras empresas o personas obligadas que, por\nel tamaño de organización, complejidad y volumen\nde transacciones no justifique contar con un tuncionario a dedicación exclusiva, designarán a un\nejecutivo de nivel de gerencia para que asuma es-\n\ntas responsabilidades. El Reglamento señalará a\nlas personas obligadas que no requieren integrarse\nplenamente al sistema de prevención.\n\nNo podrán ser oficiales de cumplimiento, además\ndel auditor interno, aquellas personas que hayan\nsido declaradas en quiebra, condeñadas por comisión de delitos dolosos o se encuentren incursas\nen los demás impedimentos que señala el Artículo\n365* de la Ley N* 26702.\n\nEl Oficial de Cumplimiento emitirá un informe semestral sobre el funcionamiento del sistema de prevención de lavado de dinero o activos.\n\n2. Auditoría Interna, formulará un plan anual de auditoría especial del programa de prevención de lavado de dinero o de activos, orientado a mejorar el\nsistema de control interno para la prevención. El\nresultado de los exámenes aplicados deberá incluirse como anexo del informe del Oficial de Cumplimiento.\n\n3. Auditoría Independiente o Externa, emitirá un intorme especial que tenga su propio fin, no complementario al informe financiero anual, debiendo ser\nrealizado por una empresa auditora distinta a la que\nemite el informe anual de estados financieros o por\nun equipo completamente distinto a éste, según lo\nestablezca el Reglamento.\n\n4. Superintendencia de Banca y Seguros y AFPs, emitirá informes relacionados al tema de lavado de dinero o de activos, cuando a través de las relaciones de sus funciones de supervisión detecten la\npresunción de lavado de dinero o de activos.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 10",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 10\n\n- De la supervisión del sistema de prevención\n\nLos órganos supervisores señalados en los incisos 1,\n2 y 3 del presente artículo, deberán de ejercer la función\nde acuerdo a lo previsto en el Reglamento de la presente\nLey y sus propios mecanismos de supervisión que deben\nconsiderar específicamente las responsabilidades y alcances del informe del Oficial de Cumplimiento, Auditoría interna y Auditoría Externa, respectivamente, así como las\nresponsabilidades de directores y gerentes a fin de establecer la existencia de negligencia inexcusable ante el incumplimiento de éstas.\n\nPara el cumplimiento de sus funciones de supervisión\nse apoyarán en los siguientes agentes:\n\n1. Oficial de Cumplimiento. El Directorio de las personas jurídicas o empresas del sistema financiero, seguros, bursátil, emisoras de tarjetas de crédito, fondos mutuos, fondos de inversión, fondos colectivos,\nfondos de pensiones, transferencia de fondos y\ntransporte de caudales, deben designar a un funcionario de nivel de gerente denominado Oficial de\nCumplimiento a dedicación exclusiva, quien se encargará de vigilar el cumplimiento del sistema de\nprevención dentro de la empresa y reportar directamente al Directorio o al Comité Ejecutivo de su\nempresa, debiéndosele asignar los recursos e infraestructura para el cumplimiento de sus responsabilidades.\n\nLas otras empresas o personas obligadas que, por\nel tamaño de organización, complejidad y volumen\nde transacciones no justifique contar con un tuncionario a dedicación exclusiva, designarán a un\nejecutivo de nivel de gerencia para que asuma es-\n\ntas responsabilidades. El Reglamento señalará a\nlas personas obligadas que no requieren integrarse\nplenamente al sistema de prevención.\n\nNo podrán ser oficiales de cumplimiento, además\ndel auditor interno, aquellas personas que hayan\nsido declaradas en quiebra, condeñadas por comisión de delitos dolosos o se encuentren incursas\nen los demás impedimentos que señala el Artículo\n365* de la Ley N* 26702.\n\nEl Oficial de Cumplimiento emitirá un informe semestral sobre el funcionamiento del sistema de prevención de lavado de dinero o activos.\n\n2. Auditoría Interna, formulará un plan anual de auditoría especial del programa de prevención de lavado de dinero o de activos, orientado a mejorar el\nsistema de control interno para la prevención. El\nresultado de los exámenes aplicados deberá incluirse como anexo del informe del Oficial de Cumplimiento.\n\n3. Auditoría Independiente o Externa, emitirá un intorme especial que tenga su propio fin, no complementario al informe financiero anual, debiendo ser\nrealizado por una empresa auditora distinta a la que\nemite el informe anual de estados financieros o por\nun equipo completamente distinto a éste, según lo\nestablezca el Reglamento.\n\n4. Superintendencia de Banca y Seguros y AFPs, emitirá informes relacionados al tema de lavado de dinero o de activos, cuando a través de las relaciones de sus funciones de supervisión detecten la\npresunción de lavado de dinero o de activos."
+    },
+    {
+      "id": "ley_27693::ley::art_11",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "11",
+      "titulo": "- Del Deber de comunicar e informar las",
+      "texto": "- Del Deber de comunicar e informar las\ntransacciones sospechosas e inusuales\n\nLos sujetos obligados a comunicar e informar deben\nprestar especial atención a las transacciones sospechosas e inusuales realizadas o que se hayan intentado realizar para cuyo efecto la UIF puede proporcionar cada cierto\ntiempo información o criterios adicionales a los que señale\nla presente Ley y su Reglamento.\n\nEl Reglamento de la presente Ley establecerá el detalle y alcance de los informes independientes de cumplimiento en relación a los sujetos obligados.\n\nPara los fines de la presente Ley, se entiende por:\n\na) Transacciones sospechosas, aquellas de naturaleza civil, comercial o financiera que tengan una magnitud o velocidad de rotación inusual, o condiciones de complejidad inusitada o injustificada, que se\npresuma proceden de alguna actividad ilícita, o que,\npor cualquier motivo, no tengan un fundamento económico o lícito aparente; y,\n\nb) Transacciones inusuales, aquellas cuya cuantía, características y periodicidad no guardan relación con\nla actividad económica del cliente, salen de los parámetros de normalidad vigente en el mercado o no\ntienen un fundamento legal evidente.\n\nEl Reglamento establecerá las nuevas modalidades de\ntransacciones sospechosas e inusuales que se presentaran.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 11",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 11\n\n- Del Deber de comunicar e informar las\ntransacciones sospechosas e inusuales\n\nLos sujetos obligados a comunicar e informar deben\nprestar especial atención a las transacciones sospechosas e inusuales realizadas o que se hayan intentado realizar para cuyo efecto la UIF puede proporcionar cada cierto\ntiempo información o criterios adicionales a los que señale\nla presente Ley y su Reglamento.\n\nEl Reglamento de la presente Ley establecerá el detalle y alcance de los informes independientes de cumplimiento en relación a los sujetos obligados.\n\nPara los fines de la presente Ley, se entiende por:\n\na) Transacciones sospechosas, aquellas de naturaleza civil, comercial o financiera que tengan una magnitud o velocidad de rotación inusual, o condiciones de complejidad inusitada o injustificada, que se\npresuma proceden de alguna actividad ilícita, o que,\npor cualquier motivo, no tengan un fundamento económico o lícito aparente; y,\n\nb) Transacciones inusuales, aquellas cuya cuantía, características y periodicidad no guardan relación con\nla actividad económica del cliente, salen de los parámetros de normalidad vigente en el mercado o no\ntienen un fundamento legal evidente.\n\nEl Reglamento establecerá las nuevas modalidades de\ntransacciones sospechosas e inusuales que se presentaran."
+    },
+    {
+      "id": "ley_27693::ley::art_12",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "12",
+      "titulo": "?.- Del Deber de Reserva",
+      "texto": "?.- Del Deber de Reserva\n\nLos sujetos obligados, así como sus empleados, que\ninformen a la UIF sobre las transacciones descritas en los\nartículos anteriores, no pueden poner en conocimiento de\npersona alguna, salvo de un órgano jurisdiccional o autoridad competente u otra persona autorizada, de acuerdo con\nlas disposiciones legales, el hecho de que una información\nha sido solicitada o proporcionada a la U!F, de acuerdo a la\npresente Ley, bajo responsabilidad legal.\n\nEsta disposición también es de aplicación para los\nmiembros del Consejo Consultivo, el Director Ejecutivo y\ndemás personal de la UIF.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 12",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 12\n\n?.- Del Deber de Reserva\n\nLos sujetos obligados, así como sus empleados, que\ninformen a la UIF sobre las transacciones descritas en los\nartículos anteriores, no pueden poner en conocimiento de\npersona alguna, salvo de un órgano jurisdiccional o autoridad competente u otra persona autorizada, de acuerdo con\nlas disposiciones legales, el hecho de que una información\nha sido solicitada o proporcionada a la U!F, de acuerdo a la\npresente Ley, bajo responsabilidad legal.\n\nEsta disposición también es de aplicación para los\nmiembros del Consejo Consultivo, el Director Ejecutivo y\ndemás personal de la UIF."
+    },
+    {
+      "id": "ley_27693::ley::art_13",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "13",
+      "titulo": "- De la exención de responsabilidad de",
+      "texto": "- De la exención de responsabilidad de\nfuncionarios\n\nLos sujetos obligados por la presente Ley, sus trabajadores, directores y otros representantes autorizados por la\nlegislación, están exentos de responsabilidad penal, legal\no administrativa, según corresponda, por el cumplimiento\nde esta Ley o por la revelación de información cuya restricción está establecida por contrato o emane de cualquier\notra disposición legislativa, reglamentaria o administrativa,\ncualquiera sea el resultado de la comunicación. Esta disposición es extensiva a todos los miembros de la UIF, que\nactúen en el cumplimiento de sus funciones.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 13",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 13\n\n- De la exención de responsabilidad de\nfuncionarios\n\nLos sujetos obligados por la presente Ley, sus trabajadores, directores y otros representantes autorizados por la\nlegislación, están exentos de responsabilidad penal, legal\no administrativa, según corresponda, por el cumplimiento\nde esta Ley o por la revelación de información cuya restricción está establecida por contrato o emane de cualquier\notra disposición legislativa, reglamentaria o administrativa,\ncualquiera sea el resultado de la comunicación. Esta disposición es extensiva a todos los miembros de la UIF, que\nactúen en el cumplimiento de sus funciones."
+    },
+    {
+      "id": "ley_27693::ley::art_14",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "14",
+      "titulo": "?.- Del conocimiento del cliente, banca",
+      "texto": "?.- Del conocimiento del cliente, banca\ncorresponsal, de su personal y del mercado\nLas personas obligadas a informar a la UIF deben:\n\n1. [mplementar mecanismos de prevención para la detección de transacciones inusuales y sospechosas\nque permitan alcanzar un conocimiento suficiente\ny actualizado de sus clientes, de la banca corresponsal y de su personal.\n\n2. Los procedimientos del programa de prevención deben estar plasmados en un manual de prevención\nde lavado de dinero. .\n\n3. Los mecanismos deberán basarse en un conocimiento adecuado del mercado financiero, bursátil y\ncomercial, con la finalidad de determinar las características usuales de fas transacciones que se etectúan respecto de determinados productos y servicios, y así poder compararlas con las transacciones que se realizan por su intermedio.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 14",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 14\n\n?.- Del conocimiento del cliente, banca\ncorresponsal, de su personal y del mercado\nLas personas obligadas a informar a la UIF deben:\n\n1. [mplementar mecanismos de prevención para la detección de transacciones inusuales y sospechosas\nque permitan alcanzar un conocimiento suficiente\ny actualizado de sus clientes, de la banca corresponsal y de su personal.\n\n2. Los procedimientos del programa de prevención deben estar plasmados en un manual de prevención\nde lavado de dinero. .\n\n3. Los mecanismos deberán basarse en un conocimiento adecuado del mercado financiero, bursátil y\ncomercial, con la finalidad de determinar las características usuales de fas transacciones que se etectúan respecto de determinados productos y servicios, y así poder compararlas con las transacciones que se realizan por su intermedio."
+    },
+    {
+      "id": "ley_27693::ley::art_15",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "15",
+      "titulo": "?.- Del intercambio de información",
+      "texto": "?.- Del intercambio de información\n\nLa UIF podrá colaborar o intercambiar información con\nlas autoridades competentes de otros países que ejerzan\ncompetencias análogas, en el marco de convenios y acuerdos internacionales suscritos en materia de lavado de dinero o de activos.\n\nLa colaboración e intercambio de información con las\nautoridades competentes de otros países se condicionará\nalo dispuesto en los tratados y convenios internacionales\ny, en su caso, al principio general de reciprocidad y al sometimiento por las autoridades de dichos países a las mismas obligaciones sobre secreto profesional que rigen para\ntas nacionales.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 15",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 15\n\n?.- Del intercambio de información\n\nLa UIF podrá colaborar o intercambiar información con\nlas autoridades competentes de otros países que ejerzan\ncompetencias análogas, en el marco de convenios y acuerdos internacionales suscritos en materia de lavado de dinero o de activos.\n\nLa colaboración e intercambio de información con las\nautoridades competentes de otros países se condicionará\nalo dispuesto en los tratados y convenios internacionales\ny, en su caso, al principio general de reciprocidad y al sometimiento por las autoridades de dichos países a las mismas obligaciones sobre secreto profesional que rigen para\ntas nacionales."
+    },
+    {
+      "id": "ley_27693::ley::art_16",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "16",
+      "titulo": "- Responsabilidad de los sujetos obllgados a informar",
+      "texto": "- Responsabilidad de los sujetos obllgados a informar\n\nLos sujetos obligados son responsables, conforme a\nderecho, por los actos de sus empleados, funcionarios, directores y otros representantes autorizados que, actuando\ncomo tales, incumplan las disposiciones establecidas en\nla presente Ley.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 16",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 16\n\n- Responsabilidad de los sujetos obllgados a informar\n\nLos sujetos obligados son responsables, conforme a\nderecho, por los actos de sus empleados, funcionarios, directores y otros representantes autorizados que, actuando\ncomo tales, incumplan las disposiciones establecidas en\nla presente Ley."
+    },
+    {
+      "id": "ley_27693::ley::art_17",
+      "tipo_unidad": "articulo",
+      "documento": "ley",
+      "numero": "17",
+      "titulo": "?.- Oficiales de Enlace",
+      "texto": "?.- Oficiales de Enlace\n\nLa UIF contará con el apoyo de oficiales de enlace designados por los titulares de la Superintendencia de Banca\ny Seguros, del Ministerio Público, de la Superintendencia\nNacional de Administración Tributaria, Aduanas, de la Comisión Naciona! Supervisora de Empresas y Valores y del\nMinisterio del Interior.\n\nLa UIF podrá solicitar a otros titulares de los organismos de la administración pública nacional y/o provincial la\ndesignación de oficiales de enlace, cuando lo crea conveniente.\n\nLa función de estos oficiales de enlace será la consulta\ny coordinación de actividades de la UJF con la de los organismos de origen a los que pertenecen.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": null
+      },
+      "cita": "Ley 27693, Artículo 17",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Artículo 17\n\n?.- Oficiales de Enlace\n\nLa UIF contará con el apoyo de oficiales de enlace designados por los titulares de la Superintendencia de Banca\ny Seguros, del Ministerio Público, de la Superintendencia\nNacional de Administración Tributaria, Aduanas, de la Comisión Naciona! Supervisora de Empresas y Valores y del\nMinisterio del Interior.\n\nLa UIF podrá solicitar a otros titulares de los organismos de la administración pública nacional y/o provincial la\ndesignación de oficiales de enlace, cuando lo crea conveniente.\n\nLa función de estos oficiales de enlace será la consulta\ny coordinación de actividades de la UJF con la de los organismos de origen a los que pertenecen."
+    },
+    {
+      "id": "ley_27693::ley::disp_disposiciones_complementarias_transitorias_y_finales_primera",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "PRIMERA",
+      "titulo": "Sustitución de los Artículos 140*, 376* y",
+      "texto": "Sustitución de los Artículos 140*, 376* y\n378* de la Ley N* 26702\n\nSustitúyese el texto de los Artículos 140*, 376* numeral\n1, segundo párrafo, y 3789, numerales 2 y 3 de la Ley General del Sistema Financiero y del Sistema de Seguros y\nOrgánica de la Superintendencia de Banca y Seguros, Ley\nN2 26702 y sus modificatorias, en los siguientes términos:\n\nArtículo 140.- ?.- ALCANCE DE LA PROHIBICIÓN\nEstá prohibido a las empresas del sistema financiero,\nasí como a sus directores y trabajadores, suministrar\ncualquier información sobre las operaciones pasivas con\nsus clientes, a menos que medie autorización escrita\nde éstos o se trate de los supuestos consignados en\nlos Artículos 142* y 143*.\n\nTambién se encuentran obligados a observar el secreto\nbancario:\n\n1. El Superintendente y los trabajadores de la Superintendencia, salvo que se trate de la información respecto a los titulares de cuentas corrientes cerradas\npor el giro de cheques sin provisión de fondos.\n\n2. Los directores y trabajadores del Banco Central de\nReserva del Perú.\n\n3. Los directores y trabajadores de las sociedades de\nauditoría y de las empresas clasificadoras de riesgo.\n\nNo rige esta norma tratándose de los movimientos sospechosos de lavado de dinero o de activos, a que se\nrefiere la Sección Quinta de esta Ley, en cuyo caso la\nempresa está obligada a comunicar acerca de tales movimientos a la Unidad de Inteligencia Financiera.\n\nNo incurren en responsabilidad legal, la empresa y/o\nsus trabajadores que, en cumplimento de la obligación\n\ncontenida en el presente artículo, hagan de conocimiento de la Unidad de Inteligencia Financiera, movimientos\no transacciones sospechosas que, por su naturaleza,\npuedan ocultar operaciones de lavado de dinero o de\nactivos. La autoridad correspondiente inicia las investigaciones necesarias y, en ningún caso, dicha comunicación puede ser fundamento para la interposición de\nacciones civiles, penales e indemnizatorias contra la\nempresa y/o sus funcionarios.\n\nTampoco incurren en responsabilidad quienes se abstengan de proporcionar información sujeta al secreto\nbancario a personas distintas a las referidas en el Artículo 143?. Las autoridades que persistan en requerirla\nquedan incursas en el delito de abuso de autoridad tipificado en el Artículo 376* del Código Penal.\n\nArtículo 376.- ?.- DISPONIBILIDAD DE REGISTRO\n\n1. (...\n\n(2do. Párrafo) Las empresas del sistema financiero no\npueden poner en conocimiento de persona alguna, salvo un Tribunal, autoridad competente, Unidad de Inteligencia Financiera u otra persona autorizada por las disposiciones legales, el hecho de que una información ha\nsido solicitada o proporcionada a un Tribunal, Unidad\nde Inteligencia Financiera o autoridad competente.\n\nArtículo 378.- - COMUNICACIÓN DE TRANSACCIONES FINANCIERAS SOSPECHOSAS\n\n(-)\n\n2. Al sospechar que las transacciones descritas en el\nnumeral 1 de este artículo pudieran constituir o estar relacionadas con actividades ilícitas, las empresas del sistema financiero deben comunicarlo directamente a la Unidad de Inteligencia Financiera.\n\n3. Las empresas del sistema financiero no pueden poner en conocimiento de persona alguna, salvo del\nórgano jurisdiccional, autoridad competente, Unidad\nde Inteligencia Financiera u otra persona autorizada por las disposiciones legales, el hecho de que\nuna información ha sido solicitada o proporcionada\nal Tribunal o autoridad competente”",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS, TRANSITORIAS Y FINALES"
+      },
+      "cita": "Ley 27693, Primera Disposición Complementaria, Transitoria y Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Disposiciones Complementarias, Transitorias Y Finales · Primera Disposición Complementaria, Transitoria y Final\n\nSustitución de los Artículos 140*, 376* y\n378* de la Ley N* 26702\n\nSustitúyese el texto de los Artículos 140*, 376* numeral\n1, segundo párrafo, y 3789, numerales 2 y 3 de la Ley General del Sistema Financiero y del Sistema de Seguros y\nOrgánica de la Superintendencia de Banca y Seguros, Ley\nN2 26702 y sus modificatorias, en los siguientes términos:\n\nArtículo 140.- ?.- ALCANCE DE LA PROHIBICIÓN\nEstá prohibido a las empresas del sistema financiero,\nasí como a sus directores y trabajadores, suministrar\ncualquier información sobre las operaciones pasivas con\nsus clientes, a menos que medie autorización escrita\nde éstos o se trate de los supuestos consignados en\nlos Artículos 142* y 143*.\n\nTambién se encuentran obligados a observar el secreto\nbancario:\n\n1. El Superintendente y los trabajadores de la Superintendencia, salvo que se trate de la información respecto a los titulares de cuentas corrientes cerradas\npor el giro de cheques sin provisión de fondos.\n\n2. Los directores y trabajadores del Banco Central de\nReserva del Perú.\n\n3. Los directores y trabajadores de las sociedades de\nauditoría y de las empresas clasificadoras de riesgo.\n\nNo rige esta norma tratándose de los movimientos sospechosos de lavado de dinero o de activos, a que se\nrefiere la Sección Quinta de esta Ley, en cuyo caso la\nempresa está obligada a comunicar acerca de tales movimientos a la Unidad de Inteligencia Financiera.\n\nNo incurren en responsabilidad legal, la empresa y/o\nsus trabajadores que, en cumplimento de la obligación\n\ncontenida en el presente artículo, hagan de conocimiento de la Unidad de Inteligencia Financiera, movimientos\no transacciones sospechosas que, por su naturaleza,\npuedan ocultar operaciones de lavado de dinero o de\nactivos. La autoridad correspondiente inicia las investigaciones necesarias y, en ningún caso, dicha comunicación puede ser fundamento para la interposición de\nacciones civiles, penales e indemnizatorias contra la\nempresa y/o sus funcionarios.\n\nTampoco incurren en responsabilidad quienes se abstengan de proporcionar información sujeta al secreto\nbancario a personas distintas a las referidas en el Artículo 143?. Las autoridades que persistan en requerirla\nquedan incursas en el delito de abuso de autoridad tipificado en el Artículo 376* del Código Penal.\n\nArtículo 376.- ?.- DISPONIBILIDAD DE REGISTRO\n\n1. (...\n\n(2do. Párrafo) Las empresas del sistema financiero no\npueden poner en conocimiento de persona alguna, salvo un Tribunal, autoridad competente, Unidad de Inteligencia Financiera u otra persona autorizada por las disposiciones legales, el hecho de que una información ha\nsido solicitada o proporcionada a un Tribunal, Unidad\nde Inteligencia Financiera o autoridad competente.\n\nArtículo 378.- - COMUNICACIÓN DE TRANSACCIONES FINANCIERAS SOSPECHOSAS\n\n(-)\n\n2. Al sospechar que las transacciones descritas en el\nnumeral 1 de este artículo pudieran constituir o estar relacionadas con actividades ilícitas, las empresas del sistema financiero deben comunicarlo directamente a la Unidad de Inteligencia Financiera.\n\n3. Las empresas del sistema financiero no pueden poner en conocimiento de persona alguna, salvo del\nórgano jurisdiccional, autoridad competente, Unidad\nde Inteligencia Financiera u otra persona autorizada por las disposiciones legales, el hecho de que\nuna información ha sido solicitada o proporcionada\nal Tribunal o autoridad competente”"
+    },
+    {
+      "id": "ley_27693::ley::disp_disposiciones_complementarias_transitorias_y_finales_segunda",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "SEGUNDA",
+      "titulo": "Norma derogatoria",
+      "texto": "Norma derogatoria\nDerógase, modificase o déjase sin efecto, según corresponda, las normas que se opongan a la presente Ley.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS, TRANSITORIAS Y FINALES"
+      },
+      "cita": "Ley 27693, Segunda Disposición Complementaria, Transitoria y Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Disposiciones Complementarias, Transitorias Y Finales · Segunda Disposición Complementaria, Transitoria y Final\n\nNorma derogatoria\nDerógase, modificase o déjase sin efecto, según corresponda, las normas que se opongan a la presente Ley."
+    },
+    {
+      "id": "ley_27693::ley::disp_disposiciones_complementarias_transitorias_y_finales_tercera",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "TERCERA",
+      "titulo": "Aplicación del Reglamento de la Ley N*",
+      "texto": "Aplicación del Reglamento de la Ley N*\n702\nEn tanto se expida el Reglamento de la presente Ley, se\n\naplican las normas reglamentarias de la Ley N* 26702, relativas a Registros y notificaciones de transacciones en efec-\n\n-tivo y sobre comunicación de Transacciones Financieras\n\nSospechosas, en lo que no se opongan a la presente Ley.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS, TRANSITORIAS Y FINALES"
+      },
+      "cita": "Ley 27693, Tercera Disposición Complementaria, Transitoria y Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Disposiciones Complementarias, Transitorias Y Finales · Tercera Disposición Complementaria, Transitoria y Final\n\nAplicación del Reglamento de la Ley N*\n702\nEn tanto se expida el Reglamento de la presente Ley, se\n\naplican las normas reglamentarias de la Ley N* 26702, relativas a Registros y notificaciones de transacciones en efec-\n\n-tivo y sobre comunicación de Transacciones Financieras\n\nSospechosas, en lo que no se opongan a la presente Ley."
+    },
+    {
+      "id": "ley_27693::ley::disp_disposiciones_complementarias_transitorias_y_finales_cuarta",
+      "tipo_unidad": "disposicion",
+      "documento": "ley",
+      "numero": "CUARTA",
+      "titulo": "Del Reglamento",
+      "texto": "Del Reglamento\n\nEl Poder Ejecutivo deberá publicar el Reglamento en el\nplazo de 90 (noventa) días contados a partir de la vigencia\nde la presente Ley.",
+      "jerarquia": {
+        "titulo": null,
+        "titulo_nombre": null,
+        "capitulo": null,
+        "seccion": null,
+        "bloque": "DISPOSICIONES COMPLEMENTARIAS, TRANSITORIAS Y FINALES"
+      },
+      "cita": "Ley 27693, Cuarta Disposición Complementaria, Transitoria y Final",
+      "vigente": true,
+      "modificado_por_texto": null,
+      "modificatorias": [],
+      "texto_para_embedding": "Ley que crea la Unidad de Inteligencia Financiera - Perú (Ley 27693) · Disposiciones Complementarias, Transitorias Y Finales · Cuarta Disposición Complementaria, Transitoria y Final\n\nDel Reglamento\n\nEl Poder Ejecutivo deberá publicar el Reglamento en el\nplazo de 90 (noventa) días contados a partir de la vigencia\nde la presente Ley."
+    }
+  ]
+}

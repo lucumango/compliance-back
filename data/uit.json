@@ -1,0 +1,17 @@
+{
+  "_nota": "La UIT se fija por decreto supremo cada año. Al agregar un año nuevo, registra la norma que lo fija y marca 'verificado' solo tras cotejar con El Peruano o el MEF.",
+  "valores": {
+    "2026": {
+      "valor": 5500,
+      "fuente": "Decreto Supremo N° 301-2025-EF, publicado el 17/12/2025",
+      "verificado": true,
+      "url": "https://www.gob.pe/435-valor-de-la-uit-en-el-ano-2026"
+    },
+    "2025": {
+      "valor": 5350,
+      "fuente": "Valor citado por el MEF como el vigente en 2025; falta cotejar el decreto supremo que lo fija",
+      "verificado": false,
+      "url": null
+    }
+  }
+}

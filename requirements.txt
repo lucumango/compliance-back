@@ -1,0 +1,10 @@
+# Dependencias de RUNTIME (lo que necesita la API en producción).
+# La ingesta de PDFs no corre en el servidor: el corpus se procesa en local y
+# se despliega ya parseado e indexado. Ver requirements-ingesta.txt.
+#
+# Versiones mínimas, no exactas: las exactas atarían el despliegue al Python
+# 3.9 del macOS local, y el contenedor de producción usa 3.12.
+fastapi>=0.128,<1.0
+uvicorn[standard]>=0.39,<1.0
+pydantic>=2.12,<3.0
+numpy>=2.0,<3.0
